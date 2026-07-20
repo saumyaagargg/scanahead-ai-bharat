@@ -1,0 +1,1501 @@
+visit_id,patient_id,department,diagnosis_category,visit_type,referring_doctor,days_since_last_scan,prior_modality,scan_accessed_next
+V10000,P1327,Cardiology,chest_pain,follow_up,Dr_Peri,7,xray,ecg_only
+V10001,P1346,General Medicine,diabetes_followup,new,Dr_Bali,0,none,xray_chest
+V10002,P1047,Orthopedics,fracture_suspected,new,Dr_Patla,0,none,xray_limb
+V10003,P1366,General Medicine,diabetes_followup,new,Dr_Peri,0,none,none
+V10004,P1142,Cardiology,chest_pain,follow_up,Dr_Varma,14,xray,chest_xray
+V10005,P1390,Pulmonology,breathing_difficulty,new,Dr_Bhasin,0,none,chest_xray
+V10006,P1176,Gastroenterology,jaundice,follow_up,Dr_Palan,30,mri,ultrasound_abdomen
+V10007,P1193,Cardiology,post_angioplasty_followup,new,Dr_Vig,0,none,ct_angio
+V10008,P1185,Gastroenterology,abdominal_pain,follow_up,Dr_Patla,90,xray,ct_abdomen
+V10009,P1040,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,ct_bone
+V10010,P1186,Orthopedics,joint_pain,new,Dr_Vig,0,none,xray_limb
+V10011,P1349,General Medicine,fever_evaluation,follow_up,Dr_Bera,60,xray,xray_chest
+V10012,P1194,Pulmonology,tb_followup,follow_up,Dr_Peri,90,ct,none
+V10013,P1397,Cardiology,chest_pain,follow_up,Dr_Varma,30,ct,chest_xray
+V10014,P1290,General Medicine,general_checkup,new,Dr_Magar,0,none,none
+V10015,P1329,Neurology,severe_headache,new,Dr_Peri,0,none,mri_brain
+V10016,P1275,Pulmonology,tb_followup,follow_up,Dr_Bawa,30,ct,chest_xray
+V10017,P1070,Gastroenterology,jaundice,new,Dr_Patla,0,none,none
+V10018,P1078,General Medicine,fever_evaluation,follow_up,Dr_Bali,60,none,none
+V10019,P1305,Neurology,post_stroke_followup,new,Dr_Memon,0,none,none
+V10020,P1005,General Medicine,diabetes_followup,new,Dr_Memon,0,none,none
+V10021,P1393,General Medicine,general_checkup,new,Dr_Bali,0,none,xray_chest
+V10022,P1001,General Medicine,diabetes_followup,new,Dr_Memon,0,none,none
+V10023,P1259,Cardiology,post_angioplasty_followup,new,Dr_Vig,0,none,ct_angio
+V10024,P1101,Orthopedics,joint_pain,follow_up,Dr_Memon,180,mri,none
+V10025,P1306,Pulmonology,chronic_cough,new,Dr_Varma,0,none,none
+V10026,P1157,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,none
+V10027,P1043,General Medicine,general_checkup,follow_up,Dr_Memon,180,xray,xray_chest
+V10028,P1243,Gastroenterology,abdominal_pain,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10029,P1108,Gastroenterology,post_surgery_followup,follow_up,Dr_Palan,14,ultrasound,none
+V10030,P1332,Pulmonology,chronic_cough,follow_up,Dr_Magar,0,xray,chest_xray
+V10031,P1173,Cardiology,post_angioplasty_followup,follow_up,Dr_Bawa,7,none,chest_xray
+V10032,P1323,Cardiology,chest_pain,new,Dr_Patla,0,none,ecg_only
+V10033,P1036,Gastroenterology,abdominal_pain,new,Dr_Magar,0,none,ultrasound_abdomen
+V10034,P1067,General Medicine,diabetes_followup,follow_up,Dr_Peri,180,ultrasound,none
+V10035,P1097,Cardiology,chest_pain,follow_up,Dr_Varma,30,ultrasound,ct_angio
+V10036,P1373,Cardiology,post_angioplasty_followup,follow_up,Dr_Vig,0,none,ct_angio
+V10037,P1173,Cardiology,chest_pain,new,Dr_Memon,0,none,ct_angio
+V10038,P1216,Orthopedics,joint_pain,new,Dr_Bhasin,0,none,xray_limb
+V10039,P1281,Cardiology,chest_pain,follow_up,Dr_Memon,180,none,none
+V10040,P1385,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,xray_limb
+V10041,P1205,Cardiology,chest_pain,new,Dr_Bali,0,none,chest_xray
+V10042,P1232,Pulmonology,chronic_cough,follow_up,Dr_Palan,180,mri,ct_chest
+V10043,P1249,Orthopedics,fracture_suspected,new,Dr_Patla,0,none,xray_limb
+V10044,P1277,Cardiology,post_angioplasty_followup,new,Dr_Patla,0,none,ct_angio
+V10045,P1257,Gastroenterology,abdominal_pain,new,Dr_Memon,0,none,ultrasound_abdomen
+V10046,P1095,Cardiology,post_angioplasty_followup,new,Dr_Peri,0,none,ct_angio
+V10047,P1291,Orthopedics,post_surgery_followup,follow_up,Dr_Bawa,0,ultrasound,ct_bone
+V10048,P1289,Gastroenterology,jaundice,follow_up,Dr_Peri,90,ct,ultrasound_abdomen
+V10049,P1202,Orthopedics,post_surgery_followup,follow_up,Dr_Magar,14,none,xray_limb
+V10050,P1318,Gastroenterology,abdominal_pain,new,Dr_Peri,0,none,ct_abdomen
+V10051,P1067,Pulmonology,breathing_difficulty,follow_up,Dr_Varma,14,xray,chest_xray
+V10052,P1278,General Medicine,general_checkup,follow_up,Dr_Vig,60,none,none
+V10053,P1283,Pulmonology,tb_followup,new,Dr_Bera,0,none,chest_xray
+V10054,P1054,General Medicine,diabetes_followup,new,Dr_Prabhu,0,none,none
+V10055,P1367,Pulmonology,breathing_difficulty,follow_up,Dr_Prabhu,60,ultrasound,chest_xray
+V10056,P1026,Cardiology,post_angioplasty_followup,new,Dr_Prabhu,0,none,chest_xray
+V10057,P1170,Orthopedics,post_surgery_followup,follow_up,Dr_Bera,90,ultrasound,xray_limb
+V10058,P1218,Gastroenterology,abdominal_pain,new,Dr_Palan,0,none,none
+V10059,P1279,Cardiology,palpitations,follow_up,Dr_Bera,30,xray,chest_xray
+V10060,P1186,Cardiology,palpitations,new,Dr_Peri,0,none,ct_angio
+V10061,P1181,Gastroenterology,jaundice,follow_up,Dr_Palan,7,xray,none
+V10062,P1090,Neurology,severe_headache,new,Dr_Varma,0,none,mri_brain
+V10063,P1210,General Medicine,diabetes_followup,follow_up,Dr_Prabhu,7,none,none
+V10064,P1019,Neurology,severe_headache,new,Dr_Magar,0,none,ct_head
+V10065,P1116,Orthopedics,fracture_suspected,follow_up,Dr_Bali,14,ct,mri_joint
+V10066,P1395,Pulmonology,chronic_cough,follow_up,Dr_Bali,90,mri,chest_xray
+V10067,P1014,Cardiology,palpitations,new,Dr_Prabhu,0,none,chest_xray
+V10068,P1305,Neurology,seizure_evaluation,follow_up,Dr_Varma,30,mri,none
+V10069,P1059,Neurology,post_stroke_followup,new,Dr_Patla,0,none,mri_brain
+V10070,P1000,Gastroenterology,post_surgery_followup,follow_up,Dr_Palan,90,xray,ultrasound_abdomen
+V10071,P1035,General Medicine,general_checkup,follow_up,Dr_Vig,180,none,none
+V10072,P1153,Gastroenterology,jaundice,follow_up,Dr_Varma,30,ct,ct_abdomen
+V10073,P1098,Neurology,post_stroke_followup,follow_up,Dr_Vig,90,xray,mri_brain
+V10074,P1154,Neurology,post_stroke_followup,follow_up,Dr_Prabhu,14,xray,mri_brain
+V10075,P1296,Gastroenterology,post_surgery_followup,new,Dr_Magar,0,none,ultrasound_abdomen
+V10076,P1109,Gastroenterology,jaundice,follow_up,Dr_Palan,7,none,ultrasound_abdomen
+V10077,P1339,General Medicine,diabetes_followup,new,Dr_Peri,0,none,none
+V10078,P1115,Orthopedics,fracture_suspected,new,Dr_Peri,0,none,none
+V10079,P1312,Cardiology,palpitations,new,Dr_Vig,0,none,ct_angio
+V10080,P1367,General Medicine,general_checkup,new,Dr_Peri,0,none,xray_chest
+V10081,P1352,Cardiology,chest_pain,follow_up,Dr_Peri,7,mri,ct_angio
+V10082,P1285,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,ct_bone
+V10083,P1286,Gastroenterology,jaundice,follow_up,Dr_Magar,60,mri,ultrasound_abdomen
+V10084,P1280,Neurology,severe_headache,follow_up,Dr_Magar,30,ct,mri_brain
+V10085,P1326,Pulmonology,tb_followup,new,Dr_Peri,0,none,chest_xray
+V10086,P1039,General Medicine,general_checkup,new,Dr_Varma,0,none,none
+V10087,P1276,Cardiology,chest_pain,new,Dr_Bali,0,none,ct_angio
+V10088,P1361,Orthopedics,fracture_suspected,new,Dr_Varma,0,none,xray_limb
+V10089,P1212,Cardiology,chest_pain,follow_up,Dr_Bali,180,mri,none
+V10090,P1010,Gastroenterology,jaundice,new,Dr_Varma,0,none,ultrasound_abdomen
+V10091,P1199,Neurology,post_stroke_followup,follow_up,Dr_Memon,180,mri,none
+V10092,P1249,Orthopedics,joint_pain,new,Dr_Patla,0,none,xray_limb
+V10093,P1342,General Medicine,general_checkup,follow_up,Dr_Magar,7,mri,none
+V10094,P1201,Gastroenterology,post_surgery_followup,follow_up,Dr_Bhasin,90,ultrasound,ultrasound_abdomen
+V10095,P1236,Orthopedics,fracture_suspected,new,Dr_Varma,0,none,xray_limb
+V10096,P1167,Pulmonology,chronic_cough,new,Dr_Bali,0,none,chest_xray
+V10097,P1041,Neurology,severe_headache,follow_up,Dr_Patla,14,xray,mri_brain
+V10098,P1399,General Medicine,fever_evaluation,follow_up,Dr_Peri,7,none,none
+V10099,P1122,Orthopedics,joint_pain,follow_up,Dr_Bawa,7,ultrasound,ct_bone
+V10100,P1392,Pulmonology,breathing_difficulty,follow_up,Dr_Palan,90,none,ct_chest
+V10101,P1083,Pulmonology,breathing_difficulty,follow_up,Dr_Prabhu,60,ultrasound,chest_xray
+V10102,P1366,Orthopedics,fracture_suspected,follow_up,Dr_Vig,7,none,ct_bone
+V10103,P1154,General Medicine,diabetes_followup,follow_up,Dr_Bawa,180,none,none
+V10104,P1219,General Medicine,general_checkup,new,Dr_Vig,0,none,none
+V10105,P1215,Neurology,severe_headache,new,Dr_Varma,0,none,mri_brain
+V10106,P1235,General Medicine,fever_evaluation,new,Dr_Palan,0,none,none
+V10107,P1333,Pulmonology,tb_followup,follow_up,Dr_Memon,180,ultrasound,ct_chest
+V10108,P1374,Gastroenterology,jaundice,new,Dr_Peri,0,none,none
+V10109,P1044,Pulmonology,chronic_cough,new,Dr_Magar,0,none,ct_chest
+V10110,P1342,Neurology,seizure_evaluation,new,Dr_Varma,0,none,ct_head
+V10111,P1108,Pulmonology,chronic_cough,new,Dr_Bawa,0,none,ct_chest
+V10112,P1141,Gastroenterology,abdominal_pain,new,Dr_Peri,0,none,ultrasound_abdomen
+V10113,P1368,Neurology,seizure_evaluation,follow_up,Dr_Peri,90,ultrasound,mri_brain
+V10114,P1251,Neurology,severe_headache,new,Dr_Peri,0,none,mri_brain
+V10115,P1124,Pulmonology,tb_followup,follow_up,Dr_Magar,60,mri,chest_xray
+V10116,P1381,Gastroenterology,jaundice,new,Dr_Magar,0,none,ultrasound_abdomen
+V10117,P1128,Orthopedics,fracture_suspected,follow_up,Dr_Varma,0,mri,none
+V10118,P1353,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,xray_limb
+V10119,P1301,Gastroenterology,post_surgery_followup,new,Dr_Bhasin,0,none,none
+V10120,P1151,Orthopedics,joint_pain,new,Dr_Patla,0,none,ct_bone
+V10121,P1064,Pulmonology,breathing_difficulty,follow_up,Dr_Memon,14,xray,ct_chest
+V10122,P1385,Neurology,severe_headache,follow_up,Dr_Bawa,14,ultrasound,mri_brain
+V10123,P1174,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,xray_limb
+V10124,P1033,Neurology,seizure_evaluation,new,Dr_Vig,0,none,mri_brain
+V10125,P1077,Orthopedics,post_surgery_followup,follow_up,Dr_Bhasin,7,none,xray_limb
+V10126,P1213,Gastroenterology,post_surgery_followup,follow_up,Dr_Peri,180,mri,ultrasound_abdomen
+V10127,P1226,Pulmonology,tb_followup,follow_up,Dr_Prabhu,60,mri,chest_xray
+V10128,P1378,Cardiology,chest_pain,follow_up,Dr_Prabhu,90,none,chest_xray
+V10129,P1088,Gastroenterology,abdominal_pain,new,Dr_Bali,0,none,ultrasound_abdomen
+V10130,P1304,Neurology,seizure_evaluation,new,Dr_Prabhu,0,none,mri_brain
+V10131,P1359,Neurology,severe_headache,follow_up,Dr_Prabhu,180,mri,mri_brain
+V10132,P1101,Neurology,severe_headache,new,Dr_Vig,0,none,ct_head
+V10133,P1136,Orthopedics,fracture_suspected,new,Dr_Prabhu,0,none,xray_limb
+V10134,P1291,Pulmonology,chronic_cough,new,Dr_Palan,0,none,chest_xray
+V10135,P1206,Pulmonology,tb_followup,new,Dr_Magar,0,none,chest_xray
+V10136,P1020,Neurology,post_stroke_followup,new,Dr_Prabhu,0,none,ct_head
+V10137,P1117,General Medicine,diabetes_followup,follow_up,Dr_Patla,180,ct,none
+V10138,P1390,Orthopedics,joint_pain,new,Dr_Magar,0,none,none
+V10139,P1092,Gastroenterology,jaundice,follow_up,Dr_Magar,0,ultrasound,ultrasound_abdomen
+V10140,P1170,Pulmonology,tb_followup,new,Dr_Bera,0,none,chest_xray
+V10141,P1355,Neurology,seizure_evaluation,follow_up,Dr_Bali,180,mri,ct_head
+V10142,P1045,Pulmonology,chronic_cough,new,Dr_Bali,0,none,none
+V10143,P1000,General Medicine,diabetes_followup,new,Dr_Patla,0,none,xray_chest
+V10144,P1185,Gastroenterology,jaundice,follow_up,Dr_Patla,7,ct,ct_abdomen
+V10145,P1147,Neurology,post_stroke_followup,new,Dr_Patla,0,none,none
+V10146,P1311,Orthopedics,post_surgery_followup,new,Dr_Memon,0,none,xray_limb
+V10147,P1208,Cardiology,chest_pain,follow_up,Dr_Bhasin,30,none,ct_angio
+V10148,P1078,Neurology,post_stroke_followup,new,Dr_Palan,0,none,ct_head
+V10149,P1247,Neurology,severe_headache,new,Dr_Bera,0,none,mri_brain
+V10150,P1306,Gastroenterology,post_surgery_followup,follow_up,Dr_Bhasin,14,ultrasound,ultrasound_abdomen
+V10151,P1259,Pulmonology,breathing_difficulty,new,Dr_Prabhu,0,none,none
+V10152,P1296,General Medicine,general_checkup,follow_up,Dr_Magar,60,ultrasound,none
+V10153,P1282,Gastroenterology,jaundice,new,Dr_Varma,0,none,none
+V10154,P1357,Orthopedics,post_surgery_followup,new,Dr_Bali,0,none,xray_limb
+V10155,P1381,Neurology,post_stroke_followup,follow_up,Dr_Bali,30,xray,mri_brain
+V10156,P1018,Orthopedics,post_surgery_followup,follow_up,Dr_Varma,180,none,mri_joint
+V10157,P1225,Cardiology,post_angioplasty_followup,follow_up,Dr_Patla,90,xray,ct_angio
+V10158,P1335,Orthopedics,fracture_suspected,new,Dr_Prabhu,0,none,xray_limb
+V10159,P1354,Neurology,post_stroke_followup,new,Dr_Varma,0,none,none
+V10160,P1273,Neurology,seizure_evaluation,follow_up,Dr_Magar,180,mri,ct_head
+V10161,P1035,Orthopedics,post_surgery_followup,follow_up,Dr_Prabhu,7,none,xray_limb
+V10162,P1050,General Medicine,diabetes_followup,follow_up,Dr_Magar,7,ct,ultrasound_abdomen
+V10163,P1023,Pulmonology,breathing_difficulty,new,Dr_Varma,0,none,chest_xray
+V10164,P1125,Gastroenterology,jaundice,follow_up,Dr_Bera,7,xray,ultrasound_abdomen
+V10165,P1195,Gastroenterology,post_surgery_followup,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10166,P1236,General Medicine,general_checkup,new,Dr_Vig,0,none,xray_chest
+V10167,P1238,Pulmonology,tb_followup,new,Dr_Bhasin,0,none,chest_xray
+V10168,P1176,Gastroenterology,jaundice,follow_up,Dr_Bali,90,ct,ultrasound_abdomen
+V10169,P1154,Orthopedics,joint_pain,follow_up,Dr_Bhasin,7,ultrasound,xray_limb
+V10170,P1294,Pulmonology,tb_followup,new,Dr_Vig,0,none,chest_xray
+V10171,P1004,Gastroenterology,post_surgery_followup,follow_up,Dr_Patla,60,ultrasound,none
+V10172,P1146,Orthopedics,post_surgery_followup,follow_up,Dr_Peri,90,xray,ct_bone
+V10173,P1347,General Medicine,diabetes_followup,follow_up,Dr_Bera,90,none,ultrasound_abdomen
+V10174,P1330,Cardiology,palpitations,follow_up,Dr_Patla,60,ct,ecg_only
+V10175,P1046,Pulmonology,chronic_cough,follow_up,Dr_Bera,7,xray,ct_chest
+V10176,P1187,Gastroenterology,post_surgery_followup,follow_up,Dr_Bera,14,ultrasound,none
+V10177,P1151,General Medicine,general_checkup,follow_up,Dr_Magar,0,xray,none
+V10178,P1115,General Medicine,diabetes_followup,follow_up,Dr_Bali,180,mri,none
+V10179,P1202,Cardiology,palpitations,new,Dr_Magar,0,none,chest_xray
+V10180,P1383,General Medicine,general_checkup,follow_up,Dr_Vig,14,none,none
+V10181,P1241,Cardiology,post_angioplasty_followup,follow_up,Dr_Memon,14,mri,chest_xray
+V10182,P1032,General Medicine,general_checkup,follow_up,Dr_Prabhu,90,ultrasound,xray_chest
+V10183,P1023,Cardiology,palpitations,follow_up,Dr_Bhasin,0,xray,ecg_only
+V10184,P1069,Neurology,seizure_evaluation,new,Dr_Palan,0,none,mri_brain
+V10185,P1276,Neurology,post_stroke_followup,follow_up,Dr_Bera,30,none,none
+V10186,P1315,Neurology,seizure_evaluation,new,Dr_Varma,0,none,ct_head
+V10187,P1227,Orthopedics,joint_pain,new,Dr_Vig,0,none,xray_limb
+V10188,P1330,Pulmonology,breathing_difficulty,new,Dr_Peri,0,none,none
+V10189,P1232,Cardiology,post_angioplasty_followup,new,Dr_Vig,0,none,ct_angio
+V10190,P1010,Cardiology,palpitations,new,Dr_Bera,0,none,ecg_only
+V10191,P1105,Cardiology,post_angioplasty_followup,new,Dr_Peri,0,none,ecg_only
+V10192,P1119,Pulmonology,breathing_difficulty,follow_up,Dr_Bawa,0,ct,none
+V10193,P1074,Orthopedics,post_surgery_followup,new,Dr_Bera,0,none,xray_limb
+V10194,P1013,Orthopedics,fracture_suspected,new,Dr_Peri,0,none,xray_limb
+V10195,P1008,Orthopedics,joint_pain,new,Dr_Palan,0,none,xray_limb
+V10196,P1058,General Medicine,fever_evaluation,new,Dr_Varma,0,none,none
+V10197,P1055,Neurology,post_stroke_followup,new,Dr_Bawa,0,none,ct_head
+V10198,P1337,Gastroenterology,jaundice,new,Dr_Patla,0,none,ultrasound_abdomen
+V10199,P1245,Neurology,seizure_evaluation,follow_up,Dr_Magar,90,ultrasound,ct_head
+V10200,P1041,Pulmonology,tb_followup,new,Dr_Bera,0,none,chest_xray
+V10201,P1324,Gastroenterology,post_surgery_followup,follow_up,Dr_Bali,60,mri,ultrasound_abdomen
+V10202,P1258,Gastroenterology,jaundice,new,Dr_Palan,0,none,ultrasound_abdomen
+V10203,P1335,General Medicine,diabetes_followup,follow_up,Dr_Peri,30,ultrasound,ultrasound_abdomen
+V10204,P1211,Pulmonology,chronic_cough,new,Dr_Palan,0,none,chest_xray
+V10205,P1218,Pulmonology,tb_followup,new,Dr_Bera,0,none,ct_chest
+V10206,P1242,Cardiology,chest_pain,follow_up,Dr_Bhasin,30,none,ecg_only
+V10207,P1190,Orthopedics,post_surgery_followup,new,Dr_Memon,0,none,xray_limb
+V10208,P1343,Cardiology,palpitations,new,Dr_Vig,0,none,none
+V10209,P1216,General Medicine,fever_evaluation,follow_up,Dr_Bawa,14,ct,xray_chest
+V10210,P1259,Orthopedics,fracture_suspected,follow_up,Dr_Peri,180,none,xray_limb
+V10211,P1284,Pulmonology,breathing_difficulty,follow_up,Dr_Bawa,7,ultrasound,none
+V10212,P1392,Gastroenterology,post_surgery_followup,follow_up,Dr_Memon,0,mri,none
+V10213,P1355,Pulmonology,breathing_difficulty,new,Dr_Palan,0,none,ct_chest
+V10214,P1173,Pulmonology,breathing_difficulty,new,Dr_Bera,0,none,ct_chest
+V10215,P1205,Cardiology,chest_pain,follow_up,Dr_Patla,0,mri,chest_xray
+V10216,P1214,Neurology,seizure_evaluation,new,Dr_Prabhu,0,none,mri_brain
+V10217,P1397,Gastroenterology,post_surgery_followup,new,Dr_Patla,0,none,ultrasound_abdomen
+V10218,P1386,Gastroenterology,abdominal_pain,follow_up,Dr_Prabhu,30,ultrasound,ultrasound_abdomen
+V10219,P1226,Neurology,seizure_evaluation,new,Dr_Memon,0,none,ct_head
+V10220,P1220,Cardiology,palpitations,follow_up,Dr_Bawa,30,mri,ct_angio
+V10221,P1023,Orthopedics,joint_pain,follow_up,Dr_Patla,0,xray,xray_limb
+V10222,P1108,Orthopedics,joint_pain,new,Dr_Bhasin,0,none,xray_limb
+V10223,P1382,Neurology,severe_headache,new,Dr_Memon,0,none,mri_brain
+V10224,P1256,Gastroenterology,post_surgery_followup,follow_up,Dr_Bhasin,30,none,ultrasound_abdomen
+V10225,P1235,Cardiology,palpitations,follow_up,Dr_Bawa,30,ultrasound,chest_xray
+V10226,P1207,Cardiology,palpitations,new,Dr_Bawa,0,none,ct_angio
+V10227,P1353,Pulmonology,breathing_difficulty,new,Dr_Bhasin,0,none,chest_xray
+V10228,P1301,Neurology,post_stroke_followup,new,Dr_Prabhu,0,none,mri_brain
+V10229,P1113,Pulmonology,breathing_difficulty,new,Dr_Vig,0,none,chest_xray
+V10230,P1261,Orthopedics,joint_pain,new,Dr_Vig,0,none,mri_joint
+V10231,P1120,Cardiology,chest_pain,new,Dr_Bera,0,none,ct_angio
+V10232,P1389,General Medicine,fever_evaluation,new,Dr_Vig,0,none,none
+V10233,P1386,Gastroenterology,post_surgery_followup,new,Dr_Bawa,0,none,ct_abdomen
+V10234,P1319,Pulmonology,tb_followup,new,Dr_Magar,0,none,chest_xray
+V10235,P1226,General Medicine,general_checkup,follow_up,Dr_Bawa,0,ct,none
+V10236,P1158,Neurology,seizure_evaluation,new,Dr_Varma,0,none,none
+V10237,P1039,General Medicine,fever_evaluation,follow_up,Dr_Memon,30,ultrasound,none
+V10238,P1378,Cardiology,palpitations,follow_up,Dr_Bawa,90,xray,chest_xray
+V10239,P1243,Gastroenterology,abdominal_pain,follow_up,Dr_Magar,0,ct,none
+V10240,P1043,Gastroenterology,post_surgery_followup,new,Dr_Peri,0,none,ct_abdomen
+V10241,P1224,Gastroenterology,post_surgery_followup,follow_up,Dr_Varma,14,ct,ultrasound_abdomen
+V10242,P1396,Pulmonology,tb_followup,follow_up,Dr_Vig,90,ct,chest_xray
+V10243,P1048,Gastroenterology,post_surgery_followup,new,Dr_Prabhu,0,none,ct_abdomen
+V10244,P1336,Gastroenterology,abdominal_pain,new,Dr_Bawa,0,none,ct_abdomen
+V10245,P1179,Pulmonology,tb_followup,follow_up,Dr_Bali,7,mri,ct_chest
+V10246,P1043,Pulmonology,tb_followup,new,Dr_Varma,0,none,none
+V10247,P1343,General Medicine,diabetes_followup,follow_up,Dr_Memon,0,ultrasound,none
+V10248,P1009,Pulmonology,chronic_cough,new,Dr_Peri,0,none,chest_xray
+V10249,P1392,Neurology,severe_headache,new,Dr_Bera,0,none,ct_head
+V10250,P1151,Cardiology,post_angioplasty_followup,follow_up,Dr_Palan,60,none,ct_angio
+V10251,P1392,Gastroenterology,abdominal_pain,follow_up,Dr_Bera,7,xray,none
+V10252,P1394,Gastroenterology,abdominal_pain,follow_up,Dr_Patla,30,ct,ct_abdomen
+V10253,P1121,Neurology,post_stroke_followup,new,Dr_Palan,0,none,mri_brain
+V10254,P1119,Gastroenterology,abdominal_pain,new,Dr_Magar,0,none,none
+V10255,P1099,Pulmonology,tb_followup,follow_up,Dr_Magar,30,ct,ct_chest
+V10256,P1257,Gastroenterology,jaundice,follow_up,Dr_Peri,180,mri,ultrasound_abdomen
+V10257,P1128,Cardiology,post_angioplasty_followup,new,Dr_Varma,0,none,ct_angio
+V10258,P1052,General Medicine,diabetes_followup,follow_up,Dr_Prabhu,0,xray,none
+V10259,P1262,Orthopedics,joint_pain,new,Dr_Peri,0,none,mri_joint
+V10260,P1178,Cardiology,palpitations,new,Dr_Memon,0,none,chest_xray
+V10261,P1197,Cardiology,palpitations,new,Dr_Varma,0,none,none
+V10262,P1365,General Medicine,general_checkup,follow_up,Dr_Bera,0,ct,ultrasound_abdomen
+V10263,P1241,General Medicine,fever_evaluation,follow_up,Dr_Magar,30,mri,xray_chest
+V10264,P1040,Cardiology,palpitations,new,Dr_Bera,0,none,ct_angio
+V10265,P1372,Gastroenterology,post_surgery_followup,new,Dr_Prabhu,0,none,ultrasound_abdomen
+V10266,P1062,Cardiology,chest_pain,new,Dr_Bawa,0,none,ct_angio
+V10267,P1056,Neurology,post_stroke_followup,new,Dr_Vig,0,none,mri_brain
+V10268,P1123,General Medicine,fever_evaluation,new,Dr_Patla,0,none,none
+V10269,P1123,Gastroenterology,jaundice,new,Dr_Vig,0,none,ultrasound_abdomen
+V10270,P1184,Cardiology,post_angioplasty_followup,new,Dr_Memon,0,none,ct_angio
+V10271,P1199,Neurology,severe_headache,follow_up,Dr_Varma,14,none,mri_brain
+V10272,P1034,Pulmonology,breathing_difficulty,follow_up,Dr_Vig,0,mri,ct_chest
+V10273,P1170,Orthopedics,fracture_suspected,new,Dr_Varma,0,none,mri_joint
+V10274,P1089,General Medicine,general_checkup,follow_up,Dr_Magar,90,xray,none
+V10275,P1032,General Medicine,general_checkup,new,Dr_Peri,0,none,xray_chest
+V10276,P1102,Cardiology,palpitations,follow_up,Dr_Memon,30,mri,ct_angio
+V10277,P1018,General Medicine,fever_evaluation,new,Dr_Patla,0,none,ultrasound_abdomen
+V10278,P1169,Pulmonology,breathing_difficulty,follow_up,Dr_Bali,30,ultrasound,none
+V10279,P1197,Pulmonology,breathing_difficulty,new,Dr_Magar,0,none,chest_xray
+V10280,P1265,Pulmonology,breathing_difficulty,follow_up,Dr_Bhasin,30,mri,none
+V10281,P1092,Gastroenterology,jaundice,new,Dr_Bhasin,0,none,ultrasound_abdomen
+V10282,P1151,Pulmonology,chronic_cough,follow_up,Dr_Bali,7,ultrasound,chest_xray
+V10283,P1021,General Medicine,general_checkup,follow_up,Dr_Bali,14,none,xray_chest
+V10284,P1326,Neurology,seizure_evaluation,new,Dr_Palan,0,none,mri_brain
+V10285,P1015,Orthopedics,post_surgery_followup,follow_up,Dr_Magar,0,xray,xray_limb
+V10286,P1398,General Medicine,general_checkup,new,Dr_Bawa,0,none,xray_chest
+V10287,P1078,General Medicine,general_checkup,follow_up,Dr_Varma,30,none,none
+V10288,P1271,Pulmonology,chronic_cough,new,Dr_Prabhu,0,none,chest_xray
+V10289,P1058,Cardiology,post_angioplasty_followup,new,Dr_Memon,0,none,chest_xray
+V10290,P1287,Cardiology,palpitations,follow_up,Dr_Palan,30,xray,none
+V10291,P1146,General Medicine,general_checkup,new,Dr_Bera,0,none,ultrasound_abdomen
+V10292,P1231,Orthopedics,post_surgery_followup,new,Dr_Bhasin,0,none,mri_joint
+V10293,P1163,General Medicine,general_checkup,follow_up,Dr_Memon,60,ct,ultrasound_abdomen
+V10294,P1080,General Medicine,diabetes_followup,follow_up,Dr_Vig,7,ct,none
+V10295,P1062,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,xray_limb
+V10296,P1283,Gastroenterology,jaundice,new,Dr_Memon,0,none,ultrasound_abdomen
+V10297,P1044,Cardiology,palpitations,new,Dr_Palan,0,none,ecg_only
+V10298,P1269,Neurology,seizure_evaluation,follow_up,Dr_Bhasin,7,ct,mri_brain
+V10299,P1230,Neurology,post_stroke_followup,new,Dr_Bera,0,none,none
+V10300,P1399,Gastroenterology,post_surgery_followup,follow_up,Dr_Bera,30,mri,none
+V10301,P1028,Cardiology,post_angioplasty_followup,new,Dr_Bera,0,none,chest_xray
+V10302,P1363,Orthopedics,joint_pain,follow_up,Dr_Memon,14,none,xray_limb
+V10303,P1325,Gastroenterology,jaundice,new,Dr_Prabhu,0,none,ct_abdomen
+V10304,P1047,Gastroenterology,post_surgery_followup,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10305,P1337,Gastroenterology,post_surgery_followup,follow_up,Dr_Varma,180,mri,ultrasound_abdomen
+V10306,P1014,Cardiology,chest_pain,follow_up,Dr_Bawa,14,xray,ecg_only
+V10307,P1213,Gastroenterology,post_surgery_followup,new,Dr_Vig,0,none,ct_abdomen
+V10308,P1328,Pulmonology,chronic_cough,new,Dr_Vig,0,none,chest_xray
+V10309,P1232,Cardiology,post_angioplasty_followup,new,Dr_Magar,0,none,ct_angio
+V10310,P1237,Orthopedics,joint_pain,follow_up,Dr_Varma,180,ct,ct_bone
+V10311,P1176,Neurology,severe_headache,follow_up,Dr_Memon,60,none,ct_head
+V10312,P1238,Cardiology,palpitations,new,Dr_Bera,0,none,chest_xray
+V10313,P1148,Neurology,post_stroke_followup,new,Dr_Bera,0,none,none
+V10314,P1295,General Medicine,general_checkup,new,Dr_Bera,0,none,none
+V10315,P1263,Neurology,seizure_evaluation,follow_up,Dr_Magar,0,none,none
+V10316,P1258,Neurology,severe_headache,new,Dr_Varma,0,none,ct_head
+V10317,P1144,Neurology,post_stroke_followup,follow_up,Dr_Vig,90,ultrasound,ct_head
+V10318,P1004,Cardiology,palpitations,new,Dr_Prabhu,0,none,ecg_only
+V10319,P1391,Neurology,seizure_evaluation,new,Dr_Patla,0,none,mri_brain
+V10320,P1099,Pulmonology,tb_followup,new,Dr_Bali,0,none,ct_chest
+V10321,P1391,Gastroenterology,jaundice,follow_up,Dr_Bawa,90,mri,ultrasound_abdomen
+V10322,P1049,Neurology,seizure_evaluation,follow_up,Dr_Varma,60,ct,mri_brain
+V10323,P1101,Gastroenterology,post_surgery_followup,new,Dr_Patla,0,none,ultrasound_abdomen
+V10324,P1070,General Medicine,general_checkup,follow_up,Dr_Memon,30,xray,none
+V10325,P1263,Orthopedics,joint_pain,follow_up,Dr_Varma,7,ultrasound,none
+V10326,P1378,Pulmonology,tb_followup,new,Dr_Memon,0,none,ct_chest
+V10327,P1362,Gastroenterology,jaundice,new,Dr_Patla,0,none,ultrasound_abdomen
+V10328,P1344,Cardiology,palpitations,follow_up,Dr_Palan,180,none,ct_angio
+V10329,P1135,General Medicine,diabetes_followup,follow_up,Dr_Palan,0,mri,none
+V10330,P1268,General Medicine,diabetes_followup,follow_up,Dr_Bali,7,xray,xray_chest
+V10331,P1358,Cardiology,chest_pain,new,Dr_Varma,0,none,ct_angio
+V10332,P1211,General Medicine,fever_evaluation,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10333,P1376,General Medicine,fever_evaluation,follow_up,Dr_Memon,7,mri,none
+V10334,P1339,Neurology,post_stroke_followup,new,Dr_Bera,0,none,mri_brain
+V10335,P1272,Pulmonology,tb_followup,new,Dr_Palan,0,none,ct_chest
+V10336,P1354,Pulmonology,tb_followup,new,Dr_Peri,0,none,chest_xray
+V10337,P1152,Orthopedics,joint_pain,follow_up,Dr_Palan,7,ultrasound,xray_limb
+V10338,P1178,Gastroenterology,post_surgery_followup,new,Dr_Bhasin,0,none,ct_abdomen
+V10339,P1278,Neurology,seizure_evaluation,follow_up,Dr_Bera,14,none,ct_head
+V10340,P1365,Cardiology,palpitations,follow_up,Dr_Vig,14,ultrasound,chest_xray
+V10341,P1275,Pulmonology,tb_followup,follow_up,Dr_Bera,0,mri,ct_chest
+V10342,P1122,Orthopedics,fracture_suspected,follow_up,Dr_Memon,7,xray,xray_limb
+V10343,P1211,Pulmonology,tb_followup,new,Dr_Vig,0,none,ct_chest
+V10344,P1002,Gastroenterology,abdominal_pain,new,Dr_Magar,0,none,ultrasound_abdomen
+V10345,P1102,Pulmonology,chronic_cough,new,Dr_Patla,0,none,none
+V10346,P1045,General Medicine,diabetes_followup,new,Dr_Palan,0,none,none
+V10347,P1019,Orthopedics,joint_pain,follow_up,Dr_Bera,0,ultrasound,mri_joint
+V10348,P1095,General Medicine,general_checkup,follow_up,Dr_Patla,14,mri,none
+V10349,P1171,Pulmonology,chronic_cough,follow_up,Dr_Memon,60,ultrasound,none
+V10350,P1068,Gastroenterology,jaundice,new,Dr_Bhasin,0,none,ultrasound_abdomen
+V10351,P1374,Neurology,post_stroke_followup,new,Dr_Bera,0,none,ct_head
+V10352,P1172,Pulmonology,tb_followup,follow_up,Dr_Peri,7,mri,none
+V10353,P1207,Neurology,post_stroke_followup,new,Dr_Bali,0,none,mri_brain
+V10354,P1094,Orthopedics,joint_pain,new,Dr_Peri,0,none,xray_limb
+V10355,P1196,Orthopedics,joint_pain,follow_up,Dr_Varma,14,mri,ct_bone
+V10356,P1005,Pulmonology,tb_followup,new,Dr_Peri,0,none,chest_xray
+V10357,P1060,Neurology,seizure_evaluation,new,Dr_Vig,0,none,mri_brain
+V10358,P1360,Pulmonology,tb_followup,new,Dr_Prabhu,0,none,chest_xray
+V10359,P1113,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,ct_bone
+V10360,P1310,Pulmonology,chronic_cough,follow_up,Dr_Magar,180,mri,none
+V10361,P1111,Orthopedics,post_surgery_followup,follow_up,Dr_Bhasin,60,ultrasound,xray_limb
+V10362,P1185,Cardiology,post_angioplasty_followup,new,Dr_Memon,0,none,none
+V10363,P1103,Gastroenterology,post_surgery_followup,new,Dr_Varma,0,none,none
+V10364,P1226,Cardiology,post_angioplasty_followup,new,Dr_Bawa,0,none,ct_angio
+V10365,P1261,Neurology,severe_headache,new,Dr_Memon,0,none,mri_brain
+V10366,P1288,Cardiology,post_angioplasty_followup,new,Dr_Prabhu,0,none,ecg_only
+V10367,P1202,Pulmonology,breathing_difficulty,follow_up,Dr_Bawa,0,none,chest_xray
+V10368,P1358,Cardiology,post_angioplasty_followup,follow_up,Dr_Bhasin,30,none,chest_xray
+V10369,P1092,Orthopedics,post_surgery_followup,follow_up,Dr_Vig,30,ct,none
+V10370,P1195,Neurology,seizure_evaluation,new,Dr_Vig,0,none,none
+V10371,P1276,Orthopedics,post_surgery_followup,follow_up,Dr_Bhasin,7,mri,xray_limb
+V10372,P1065,General Medicine,fever_evaluation,follow_up,Dr_Patla,14,ultrasound,none
+V10373,P1278,Neurology,post_stroke_followup,new,Dr_Peri,0,none,ct_head
+V10374,P1177,Orthopedics,joint_pain,new,Dr_Palan,0,none,mri_joint
+V10375,P1016,General Medicine,general_checkup,follow_up,Dr_Patla,7,xray,xray_chest
+V10376,P1304,Cardiology,palpitations,follow_up,Dr_Palan,180,none,chest_xray
+V10377,P1022,Neurology,seizure_evaluation,new,Dr_Peri,0,none,mri_brain
+V10378,P1397,Cardiology,chest_pain,new,Dr_Prabhu,0,none,chest_xray
+V10379,P1374,Gastroenterology,jaundice,follow_up,Dr_Vig,180,ct,ultrasound_abdomen
+V10380,P1073,General Medicine,diabetes_followup,new,Dr_Prabhu,0,none,none
+V10381,P1285,Gastroenterology,post_surgery_followup,follow_up,Dr_Vig,90,ultrasound,ct_abdomen
+V10382,P1024,Pulmonology,tb_followup,follow_up,Dr_Memon,14,ultrasound,chest_xray
+V10383,P1153,Neurology,severe_headache,follow_up,Dr_Magar,7,xray,ct_head
+V10384,P1362,Orthopedics,joint_pain,follow_up,Dr_Memon,30,ultrasound,xray_limb
+V10385,P1068,Neurology,severe_headache,new,Dr_Varma,0,none,mri_brain
+V10386,P1230,Pulmonology,breathing_difficulty,new,Dr_Peri,0,none,chest_xray
+V10387,P1193,General Medicine,diabetes_followup,follow_up,Dr_Bhasin,7,mri,none
+V10388,P1286,Orthopedics,joint_pain,new,Dr_Varma,0,none,xray_limb
+V10389,P1007,Orthopedics,fracture_suspected,follow_up,Dr_Bhasin,90,ultrasound,none
+V10390,P1356,Gastroenterology,post_surgery_followup,new,Dr_Peri,0,none,ct_abdomen
+V10391,P1397,Pulmonology,chronic_cough,new,Dr_Vig,0,none,chest_xray
+V10392,P1133,Pulmonology,tb_followup,follow_up,Dr_Magar,0,ultrasound,ct_chest
+V10393,P1163,Orthopedics,joint_pain,new,Dr_Patla,0,none,xray_limb
+V10394,P1113,General Medicine,fever_evaluation,new,Dr_Memon,0,none,ultrasound_abdomen
+V10395,P1296,General Medicine,general_checkup,new,Dr_Peri,0,none,none
+V10396,P1194,Gastroenterology,abdominal_pain,new,Dr_Vig,0,none,none
+V10397,P1172,Pulmonology,chronic_cough,follow_up,Dr_Vig,90,ultrasound,ct_chest
+V10398,P1375,Pulmonology,breathing_difficulty,new,Dr_Memon,0,none,ct_chest
+V10399,P1277,General Medicine,fever_evaluation,new,Dr_Bhasin,0,none,ultrasound_abdomen
+V10400,P1342,Cardiology,chest_pain,new,Dr_Vig,0,none,chest_xray
+V10401,P1362,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,xray_limb
+V10402,P1316,General Medicine,diabetes_followup,follow_up,Dr_Magar,90,ultrasound,xray_chest
+V10403,P1272,Gastroenterology,jaundice,new,Dr_Memon,0,none,ct_abdomen
+V10404,P1274,Pulmonology,breathing_difficulty,new,Dr_Palan,0,none,ct_chest
+V10405,P1091,Cardiology,chest_pain,new,Dr_Peri,0,none,chest_xray
+V10406,P1269,Pulmonology,chronic_cough,new,Dr_Bali,0,none,chest_xray
+V10407,P1207,Neurology,post_stroke_followup,new,Dr_Palan,0,none,ct_head
+V10408,P1350,Cardiology,post_angioplasty_followup,follow_up,Dr_Vig,180,none,chest_xray
+V10409,P1194,Neurology,post_stroke_followup,new,Dr_Vig,0,none,ct_head
+V10410,P1087,Cardiology,palpitations,follow_up,Dr_Vig,180,ct,ct_angio
+V10411,P1048,Gastroenterology,abdominal_pain,new,Dr_Palan,0,none,none
+V10412,P1243,Pulmonology,breathing_difficulty,follow_up,Dr_Vig,14,mri,ct_chest
+V10413,P1016,Orthopedics,joint_pain,new,Dr_Peri,0,none,xray_limb
+V10414,P1385,General Medicine,general_checkup,follow_up,Dr_Prabhu,7,mri,none
+V10415,P1199,General Medicine,diabetes_followup,new,Dr_Palan,0,none,xray_chest
+V10416,P1352,General Medicine,fever_evaluation,new,Dr_Varma,0,none,xray_chest
+V10417,P1223,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,none
+V10418,P1203,Pulmonology,breathing_difficulty,follow_up,Dr_Magar,30,xray,chest_xray
+V10419,P1192,Neurology,severe_headache,follow_up,Dr_Vig,30,none,mri_brain
+V10420,P1151,Orthopedics,post_surgery_followup,new,Dr_Prabhu,0,none,xray_limb
+V10421,P1364,General Medicine,fever_evaluation,follow_up,Dr_Varma,14,none,xray_chest
+V10422,P1157,Neurology,seizure_evaluation,follow_up,Dr_Bhasin,7,none,ct_head
+V10423,P1229,Gastroenterology,post_surgery_followup,new,Dr_Bhasin,0,none,ultrasound_abdomen
+V10424,P1181,Gastroenterology,abdominal_pain,follow_up,Dr_Varma,180,ultrasound,ultrasound_abdomen
+V10425,P1211,Neurology,severe_headache,follow_up,Dr_Memon,7,mri,mri_brain
+V10426,P1350,Neurology,severe_headache,new,Dr_Prabhu,0,none,ct_head
+V10427,P1074,Cardiology,chest_pain,new,Dr_Bali,0,none,chest_xray
+V10428,P1039,Pulmonology,chronic_cough,follow_up,Dr_Palan,90,ultrasound,ct_chest
+V10429,P1100,Neurology,severe_headache,new,Dr_Patla,0,none,none
+V10430,P1170,Gastroenterology,jaundice,follow_up,Dr_Varma,30,ct,ultrasound_abdomen
+V10431,P1333,Gastroenterology,abdominal_pain,new,Dr_Bawa,0,none,none
+V10432,P1102,Neurology,seizure_evaluation,new,Dr_Bali,0,none,none
+V10433,P1149,General Medicine,diabetes_followup,follow_up,Dr_Bawa,180,xray,none
+V10434,P1143,Neurology,seizure_evaluation,new,Dr_Bawa,0,none,ct_head
+V10435,P1279,Orthopedics,post_surgery_followup,follow_up,Dr_Patla,90,ultrasound,none
+V10436,P1107,Neurology,seizure_evaluation,follow_up,Dr_Bhasin,180,ultrasound,mri_brain
+V10437,P1071,General Medicine,general_checkup,new,Dr_Vig,0,none,xray_chest
+V10438,P1216,Neurology,severe_headache,new,Dr_Bawa,0,none,mri_brain
+V10439,P1205,Gastroenterology,post_surgery_followup,follow_up,Dr_Palan,30,mri,ultrasound_abdomen
+V10440,P1184,General Medicine,diabetes_followup,follow_up,Dr_Bhasin,0,xray,none
+V10441,P1181,Orthopedics,post_surgery_followup,follow_up,Dr_Bawa,90,ultrasound,none
+V10442,P1169,Neurology,severe_headache,new,Dr_Prabhu,0,none,ct_head
+V10443,P1382,Gastroenterology,post_surgery_followup,follow_up,Dr_Bawa,7,ultrasound,ultrasound_abdomen
+V10444,P1237,General Medicine,diabetes_followup,follow_up,Dr_Bera,14,none,none
+V10445,P1151,Neurology,severe_headache,new,Dr_Palan,0,none,ct_head
+V10446,P1159,Pulmonology,chronic_cough,follow_up,Dr_Memon,30,ct,ct_chest
+V10447,P1224,General Medicine,diabetes_followup,new,Dr_Bhasin,0,none,none
+V10448,P1363,Cardiology,chest_pain,follow_up,Dr_Vig,0,xray,none
+V10449,P1379,Orthopedics,post_surgery_followup,new,Dr_Bera,0,none,xray_limb
+V10450,P1218,Neurology,severe_headache,follow_up,Dr_Vig,7,xray,mri_brain
+V10451,P1221,Neurology,severe_headache,follow_up,Dr_Peri,30,mri,mri_brain
+V10452,P1002,General Medicine,fever_evaluation,new,Dr_Palan,0,none,none
+V10453,P1032,Gastroenterology,abdominal_pain,follow_up,Dr_Memon,7,ct,ultrasound_abdomen
+V10454,P1234,Cardiology,palpitations,follow_up,Dr_Magar,60,ct,ct_angio
+V10455,P1312,Neurology,post_stroke_followup,new,Dr_Varma,0,none,none
+V10456,P1316,Orthopedics,post_surgery_followup,follow_up,Dr_Prabhu,60,mri,xray_limb
+V10457,P1068,Pulmonology,breathing_difficulty,new,Dr_Bhasin,0,none,chest_xray
+V10458,P1355,Orthopedics,post_surgery_followup,new,Dr_Bawa,0,none,xray_limb
+V10459,P1196,Neurology,severe_headache,new,Dr_Memon,0,none,mri_brain
+V10460,P1330,Orthopedics,post_surgery_followup,new,Dr_Prabhu,0,none,xray_limb
+V10461,P1161,Neurology,post_stroke_followup,new,Dr_Varma,0,none,none
+V10462,P1248,Orthopedics,fracture_suspected,follow_up,Dr_Memon,60,ultrasound,xray_limb
+V10463,P1251,Neurology,post_stroke_followup,follow_up,Dr_Magar,7,none,mri_brain
+V10464,P1389,Orthopedics,joint_pain,new,Dr_Peri,0,none,xray_limb
+V10465,P1086,Neurology,post_stroke_followup,follow_up,Dr_Magar,60,mri,ct_head
+V10466,P1058,Pulmonology,tb_followup,follow_up,Dr_Varma,60,none,ct_chest
+V10467,P1225,Gastroenterology,abdominal_pain,follow_up,Dr_Bhasin,90,xray,ultrasound_abdomen
+V10468,P1016,Neurology,seizure_evaluation,new,Dr_Bhasin,0,none,mri_brain
+V10469,P1060,Orthopedics,fracture_suspected,follow_up,Dr_Bawa,90,ct,mri_joint
+V10470,P1312,General Medicine,general_checkup,new,Dr_Bera,0,none,none
+V10471,P1105,Cardiology,post_angioplasty_followup,new,Dr_Prabhu,0,none,ct_angio
+V10472,P1086,Pulmonology,tb_followup,new,Dr_Bawa,0,none,chest_xray
+V10473,P1263,General Medicine,fever_evaluation,new,Dr_Bali,0,none,ultrasound_abdomen
+V10474,P1141,General Medicine,fever_evaluation,follow_up,Dr_Bera,7,xray,none
+V10475,P1126,General Medicine,general_checkup,new,Dr_Bawa,0,none,none
+V10476,P1321,Neurology,seizure_evaluation,new,Dr_Vig,0,none,mri_brain
+V10477,P1393,Cardiology,palpitations,new,Dr_Prabhu,0,none,ct_angio
+V10478,P1188,Neurology,seizure_evaluation,new,Dr_Patla,0,none,none
+V10479,P1375,Cardiology,post_angioplasty_followup,follow_up,Dr_Vig,90,ct,ecg_only
+V10480,P1273,Neurology,severe_headache,follow_up,Dr_Peri,30,ct,ct_head
+V10481,P1145,Pulmonology,tb_followup,follow_up,Dr_Bawa,180,ultrasound,ct_chest
+V10482,P1349,Cardiology,chest_pain,new,Dr_Magar,0,none,chest_xray
+V10483,P1080,Neurology,seizure_evaluation,new,Dr_Bali,0,none,ct_head
+V10484,P1352,Orthopedics,post_surgery_followup,new,Dr_Prabhu,0,none,xray_limb
+V10485,P1184,Pulmonology,breathing_difficulty,new,Dr_Vig,0,none,chest_xray
+V10486,P1202,General Medicine,general_checkup,follow_up,Dr_Peri,30,none,none
+V10487,P1000,Orthopedics,joint_pain,new,Dr_Bawa,0,none,xray_limb
+V10488,P1348,Neurology,severe_headache,new,Dr_Varma,0,none,none
+V10489,P1216,General Medicine,fever_evaluation,new,Dr_Peri,0,none,none
+V10490,P1374,Cardiology,chest_pain,new,Dr_Prabhu,0,none,chest_xray
+V10491,P1396,Orthopedics,post_surgery_followup,follow_up,Dr_Bera,0,mri,xray_limb
+V10492,P1312,General Medicine,fever_evaluation,new,Dr_Palan,0,none,none
+V10493,P1383,Orthopedics,joint_pain,follow_up,Dr_Magar,180,xray,xray_limb
+V10494,P1051,Orthopedics,fracture_suspected,follow_up,Dr_Bali,14,ultrasound,xray_limb
+V10495,P1071,Orthopedics,joint_pain,follow_up,Dr_Peri,60,mri,ct_bone
+V10496,P1311,Pulmonology,tb_followup,new,Dr_Vig,0,none,none
+V10497,P1105,Gastroenterology,post_surgery_followup,new,Dr_Palan,0,none,ultrasound_abdomen
+V10498,P1330,Cardiology,chest_pain,new,Dr_Bhasin,0,none,chest_xray
+V10499,P1326,Gastroenterology,abdominal_pain,new,Dr_Patla,0,none,none
+V10500,P1162,Orthopedics,joint_pain,follow_up,Dr_Bawa,30,ct,xray_limb
+V10501,P1088,Neurology,severe_headache,new,Dr_Bhasin,0,none,ct_head
+V10502,P1110,Cardiology,chest_pain,follow_up,Dr_Bali,60,ct,ct_angio
+V10503,P1256,Neurology,seizure_evaluation,follow_up,Dr_Bhasin,90,mri,mri_brain
+V10504,P1078,Pulmonology,breathing_difficulty,new,Dr_Memon,0,none,none
+V10505,P1079,Gastroenterology,jaundice,new,Dr_Vig,0,none,ct_abdomen
+V10506,P1332,General Medicine,diabetes_followup,new,Dr_Palan,0,none,none
+V10507,P1122,Cardiology,chest_pain,new,Dr_Bali,0,none,chest_xray
+V10508,P1313,Gastroenterology,abdominal_pain,new,Dr_Palan,0,none,ct_abdomen
+V10509,P1089,Cardiology,chest_pain,follow_up,Dr_Palan,0,xray,ct_angio
+V10510,P1177,Gastroenterology,post_surgery_followup,follow_up,Dr_Palan,14,xray,ultrasound_abdomen
+V10511,P1383,Pulmonology,tb_followup,follow_up,Dr_Patla,14,ultrasound,chest_xray
+V10512,P1032,Pulmonology,tb_followup,follow_up,Dr_Vig,0,ultrasound,ct_chest
+V10513,P1184,Cardiology,palpitations,follow_up,Dr_Bera,14,xray,chest_xray
+V10514,P1052,Gastroenterology,post_surgery_followup,follow_up,Dr_Peri,90,mri,ultrasound_abdomen
+V10515,P1006,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,none
+V10516,P1091,Cardiology,post_angioplasty_followup,follow_up,Dr_Palan,90,ultrasound,chest_xray
+V10517,P1127,Neurology,post_stroke_followup,new,Dr_Bhasin,0,none,mri_brain
+V10518,P1061,Gastroenterology,post_surgery_followup,follow_up,Dr_Bera,7,mri,none
+V10519,P1205,Cardiology,palpitations,follow_up,Dr_Prabhu,14,none,ct_angio
+V10520,P1004,Pulmonology,breathing_difficulty,new,Dr_Prabhu,0,none,ct_chest
+V10521,P1124,Neurology,seizure_evaluation,follow_up,Dr_Magar,180,xray,mri_brain
+V10522,P1279,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,xray_limb
+V10523,P1277,Pulmonology,tb_followup,follow_up,Dr_Patla,14,none,ct_chest
+V10524,P1192,General Medicine,diabetes_followup,new,Dr_Peri,0,none,none
+V10525,P1121,Neurology,seizure_evaluation,follow_up,Dr_Bera,90,ct,ct_head
+V10526,P1118,Gastroenterology,jaundice,follow_up,Dr_Varma,30,none,ct_abdomen
+V10527,P1258,Orthopedics,post_surgery_followup,follow_up,Dr_Bhasin,60,mri,xray_limb
+V10528,P1339,Orthopedics,fracture_suspected,new,Dr_Varma,0,none,none
+V10529,P1201,General Medicine,diabetes_followup,new,Dr_Magar,0,none,none
+V10530,P1038,Orthopedics,fracture_suspected,follow_up,Dr_Bawa,0,xray,xray_limb
+V10531,P1230,Neurology,seizure_evaluation,new,Dr_Memon,0,none,mri_brain
+V10532,P1394,Orthopedics,joint_pain,new,Dr_Prabhu,0,none,mri_joint
+V10533,P1046,Orthopedics,post_surgery_followup,new,Dr_Palan,0,none,ct_bone
+V10534,P1020,Orthopedics,joint_pain,new,Dr_Palan,0,none,xray_limb
+V10535,P1182,Neurology,post_stroke_followup,new,Dr_Prabhu,0,none,ct_head
+V10536,P1089,Cardiology,palpitations,follow_up,Dr_Memon,90,mri,chest_xray
+V10537,P1236,Cardiology,chest_pain,new,Dr_Patla,0,none,ecg_only
+V10538,P1113,Orthopedics,fracture_suspected,follow_up,Dr_Varma,90,none,xray_limb
+V10539,P1132,Cardiology,chest_pain,follow_up,Dr_Peri,90,ultrasound,ecg_only
+V10540,P1047,Pulmonology,breathing_difficulty,new,Dr_Magar,0,none,chest_xray
+V10541,P1293,Neurology,post_stroke_followup,new,Dr_Patla,0,none,mri_brain
+V10542,P1218,Orthopedics,joint_pain,new,Dr_Bera,0,none,xray_limb
+V10543,P1228,Orthopedics,fracture_suspected,follow_up,Dr_Bawa,7,ct,xray_limb
+V10544,P1281,Neurology,severe_headache,new,Dr_Bali,0,none,ct_head
+V10545,P1102,General Medicine,diabetes_followup,new,Dr_Memon,0,none,none
+V10546,P1195,General Medicine,general_checkup,new,Dr_Magar,0,none,none
+V10547,P1289,Gastroenterology,jaundice,new,Dr_Bera,0,none,ultrasound_abdomen
+V10548,P1305,Orthopedics,fracture_suspected,follow_up,Dr_Prabhu,0,ultrasound,xray_limb
+V10549,P1392,Gastroenterology,abdominal_pain,follow_up,Dr_Bhasin,7,xray,ultrasound_abdomen
+V10550,P1377,Cardiology,chest_pain,follow_up,Dr_Bali,14,xray,chest_xray
+V10551,P1303,Pulmonology,tb_followup,follow_up,Dr_Bawa,0,ct,none
+V10552,P1288,Orthopedics,post_surgery_followup,follow_up,Dr_Magar,60,ct,xray_limb
+V10553,P1019,Cardiology,chest_pain,new,Dr_Peri,0,none,chest_xray
+V10554,P1244,Cardiology,palpitations,follow_up,Dr_Peri,180,xray,chest_xray
+V10555,P1090,Pulmonology,breathing_difficulty,new,Dr_Bawa,0,none,ct_chest
+V10556,P1072,Cardiology,post_angioplasty_followup,follow_up,Dr_Bhasin,14,ultrasound,ct_angio
+V10557,P1172,Pulmonology,chronic_cough,new,Dr_Bera,0,none,ct_chest
+V10558,P1223,General Medicine,general_checkup,follow_up,Dr_Bera,90,mri,none
+V10559,P1314,Pulmonology,breathing_difficulty,follow_up,Dr_Bera,30,ct,ct_chest
+V10560,P1150,Orthopedics,fracture_suspected,follow_up,Dr_Palan,60,ultrasound,mri_joint
+V10561,P1394,Gastroenterology,abdominal_pain,new,Dr_Varma,0,none,none
+V10562,P1313,Orthopedics,post_surgery_followup,follow_up,Dr_Magar,7,ct,ct_bone
+V10563,P1121,Pulmonology,chronic_cough,new,Dr_Bhasin,0,none,none
+V10564,P1343,General Medicine,diabetes_followup,follow_up,Dr_Magar,0,ct,none
+V10565,P1354,Cardiology,palpitations,new,Dr_Bhasin,0,none,ecg_only
+V10566,P1024,Neurology,seizure_evaluation,follow_up,Dr_Bera,30,ultrasound,none
+V10567,P1179,Gastroenterology,jaundice,new,Dr_Magar,0,none,ct_abdomen
+V10568,P1295,General Medicine,diabetes_followup,new,Dr_Magar,0,none,xray_chest
+V10569,P1017,Pulmonology,breathing_difficulty,new,Dr_Bhasin,0,none,chest_xray
+V10570,P1087,Neurology,severe_headache,follow_up,Dr_Memon,0,ct,mri_brain
+V10571,P1314,Neurology,post_stroke_followup,new,Dr_Vig,0,none,ct_head
+V10572,P1222,Orthopedics,fracture_suspected,new,Dr_Peri,0,none,none
+V10573,P1209,General Medicine,diabetes_followup,follow_up,Dr_Palan,60,ct,none
+V10574,P1152,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,xray_limb
+V10575,P1251,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,xray_limb
+V10576,P1338,General Medicine,diabetes_followup,new,Dr_Bhasin,0,none,xray_chest
+V10577,P1087,General Medicine,general_checkup,follow_up,Dr_Magar,180,none,none
+V10578,P1203,Neurology,seizure_evaluation,follow_up,Dr_Prabhu,0,mri,mri_brain
+V10579,P1189,Neurology,seizure_evaluation,new,Dr_Patla,0,none,ct_head
+V10580,P1238,Pulmonology,breathing_difficulty,follow_up,Dr_Bawa,0,xray,ct_chest
+V10581,P1341,Cardiology,chest_pain,follow_up,Dr_Memon,30,mri,chest_xray
+V10582,P1031,Neurology,post_stroke_followup,new,Dr_Memon,0,none,mri_brain
+V10583,P1243,Gastroenterology,abdominal_pain,new,Dr_Bhasin,0,none,ultrasound_abdomen
+V10584,P1365,Cardiology,post_angioplasty_followup,follow_up,Dr_Memon,180,mri,ct_angio
+V10585,P1317,Orthopedics,fracture_suspected,follow_up,Dr_Magar,7,xray,none
+V10586,P1098,Orthopedics,fracture_suspected,new,Dr_Vig,0,none,xray_limb
+V10587,P1321,Orthopedics,post_surgery_followup,new,Dr_Palan,0,none,none
+V10588,P1034,Cardiology,palpitations,follow_up,Dr_Memon,14,ct,ct_angio
+V10589,P1006,General Medicine,diabetes_followup,follow_up,Dr_Bali,0,ultrasound,xray_chest
+V10590,P1290,Gastroenterology,post_surgery_followup,follow_up,Dr_Bhasin,0,mri,ct_abdomen
+V10591,P1146,Gastroenterology,jaundice,follow_up,Dr_Prabhu,30,ultrasound,ct_abdomen
+V10592,P1242,Cardiology,chest_pain,new,Dr_Bera,0,none,ct_angio
+V10593,P1348,General Medicine,general_checkup,new,Dr_Varma,0,none,none
+V10594,P1025,General Medicine,general_checkup,follow_up,Dr_Varma,0,ct,none
+V10595,P1155,Pulmonology,chronic_cough,follow_up,Dr_Palan,90,none,none
+V10596,P1116,Orthopedics,joint_pain,follow_up,Dr_Magar,180,ct,xray_limb
+V10597,P1213,Gastroenterology,post_surgery_followup,new,Dr_Magar,0,none,ultrasound_abdomen
+V10598,P1208,General Medicine,general_checkup,follow_up,Dr_Varma,180,none,none
+V10599,P1081,Cardiology,palpitations,follow_up,Dr_Bali,7,mri,ecg_only
+V10600,P1014,Orthopedics,fracture_suspected,follow_up,Dr_Peri,180,none,xray_limb
+V10601,P1233,Cardiology,palpitations,follow_up,Dr_Prabhu,14,ultrasound,ct_angio
+V10602,P1325,Cardiology,post_angioplasty_followup,new,Dr_Varma,0,none,ct_angio
+V10603,P1228,Orthopedics,joint_pain,follow_up,Dr_Varma,14,xray,mri_joint
+V10604,P1132,General Medicine,diabetes_followup,new,Dr_Patla,0,none,none
+V10605,P1083,Gastroenterology,abdominal_pain,follow_up,Dr_Vig,7,xray,ultrasound_abdomen
+V10606,P1209,Gastroenterology,abdominal_pain,follow_up,Dr_Vig,0,ultrasound,none
+V10607,P1331,Orthopedics,post_surgery_followup,follow_up,Dr_Peri,14,mri,mri_joint
+V10608,P1156,General Medicine,diabetes_followup,follow_up,Dr_Bali,30,ct,none
+V10609,P1111,Neurology,seizure_evaluation,follow_up,Dr_Bawa,30,mri,ct_head
+V10610,P1261,General Medicine,general_checkup,follow_up,Dr_Bawa,60,ct,none
+V10611,P1055,Neurology,severe_headache,new,Dr_Prabhu,0,none,mri_brain
+V10612,P1141,Pulmonology,tb_followup,follow_up,Dr_Vig,14,xray,chest_xray
+V10613,P1391,Orthopedics,fracture_suspected,follow_up,Dr_Bawa,30,ct,ct_bone
+V10614,P1369,Cardiology,post_angioplasty_followup,new,Dr_Prabhu,0,none,chest_xray
+V10615,P1214,Neurology,seizure_evaluation,follow_up,Dr_Bawa,90,mri,none
+V10616,P1175,General Medicine,diabetes_followup,new,Dr_Memon,0,none,none
+V10617,P1243,General Medicine,general_checkup,new,Dr_Bera,0,none,none
+V10618,P1285,Orthopedics,joint_pain,new,Dr_Bera,0,none,ct_bone
+V10619,P1371,Gastroenterology,abdominal_pain,follow_up,Dr_Varma,90,none,ultrasound_abdomen
+V10620,P1114,General Medicine,general_checkup,new,Dr_Varma,0,none,none
+V10621,P1299,Pulmonology,chronic_cough,follow_up,Dr_Magar,0,mri,ct_chest
+V10622,P1317,Cardiology,palpitations,follow_up,Dr_Memon,0,ultrasound,ct_angio
+V10623,P1211,Cardiology,chest_pain,new,Dr_Peri,0,none,chest_xray
+V10624,P1291,Neurology,severe_headache,new,Dr_Palan,0,none,ct_head
+V10625,P1041,Neurology,seizure_evaluation,follow_up,Dr_Bera,14,none,ct_head
+V10626,P1140,Orthopedics,fracture_suspected,follow_up,Dr_Bera,30,none,xray_limb
+V10627,P1222,General Medicine,general_checkup,new,Dr_Magar,0,none,none
+V10628,P1019,Gastroenterology,abdominal_pain,follow_up,Dr_Patla,14,mri,ultrasound_abdomen
+V10629,P1346,Cardiology,post_angioplasty_followup,follow_up,Dr_Peri,90,ct,chest_xray
+V10630,P1052,Neurology,post_stroke_followup,follow_up,Dr_Bera,0,none,ct_head
+V10631,P1148,Neurology,post_stroke_followup,new,Dr_Memon,0,none,ct_head
+V10632,P1351,Orthopedics,joint_pain,follow_up,Dr_Magar,14,xray,xray_limb
+V10633,P1206,Cardiology,chest_pain,new,Dr_Bera,0,none,chest_xray
+V10634,P1011,Gastroenterology,post_surgery_followup,new,Dr_Varma,0,none,ct_abdomen
+V10635,P1019,Neurology,post_stroke_followup,new,Dr_Memon,0,none,mri_brain
+V10636,P1304,Cardiology,post_angioplasty_followup,new,Dr_Patla,0,none,chest_xray
+V10637,P1059,Neurology,seizure_evaluation,new,Dr_Memon,0,none,ct_head
+V10638,P1359,Orthopedics,fracture_suspected,follow_up,Dr_Vig,0,ct,xray_limb
+V10639,P1051,General Medicine,diabetes_followup,new,Dr_Bawa,0,none,none
+V10640,P1214,Cardiology,post_angioplasty_followup,follow_up,Dr_Bhasin,14,none,ecg_only
+V10641,P1254,Orthopedics,post_surgery_followup,new,Dr_Prabhu,0,none,mri_joint
+V10642,P1103,Pulmonology,tb_followup,new,Dr_Bera,0,none,chest_xray
+V10643,P1254,Orthopedics,post_surgery_followup,follow_up,Dr_Varma,7,none,xray_limb
+V10644,P1045,Cardiology,post_angioplasty_followup,follow_up,Dr_Bera,0,mri,chest_xray
+V10645,P1370,Cardiology,palpitations,follow_up,Dr_Magar,14,ct,ct_angio
+V10646,P1051,Orthopedics,fracture_suspected,follow_up,Dr_Varma,180,ct,xray_limb
+V10647,P1059,Cardiology,chest_pain,new,Dr_Bera,0,none,ct_angio
+V10648,P1087,Pulmonology,chronic_cough,follow_up,Dr_Bawa,14,none,chest_xray
+V10649,P1175,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,xray_limb
+V10650,P1197,General Medicine,general_checkup,follow_up,Dr_Vig,180,xray,xray_chest
+V10651,P1356,General Medicine,fever_evaluation,follow_up,Dr_Bera,0,ultrasound,ultrasound_abdomen
+V10652,P1247,Gastroenterology,post_surgery_followup,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10653,P1183,Gastroenterology,abdominal_pain,follow_up,Dr_Palan,7,ultrasound,none
+V10654,P1057,Neurology,seizure_evaluation,new,Dr_Prabhu,0,none,mri_brain
+V10655,P1006,General Medicine,diabetes_followup,new,Dr_Palan,0,none,none
+V10656,P1289,Orthopedics,post_surgery_followup,follow_up,Dr_Memon,60,mri,xray_limb
+V10657,P1338,General Medicine,fever_evaluation,new,Dr_Vig,0,none,none
+V10658,P1197,Orthopedics,post_surgery_followup,follow_up,Dr_Bawa,0,none,ct_bone
+V10659,P1080,Gastroenterology,jaundice,follow_up,Dr_Bera,0,ultrasound,ultrasound_abdomen
+V10660,P1169,Pulmonology,breathing_difficulty,new,Dr_Memon,0,none,ct_chest
+V10661,P1206,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,xray_limb
+V10662,P1255,Neurology,seizure_evaluation,new,Dr_Magar,0,none,mri_brain
+V10663,P1009,Cardiology,palpitations,new,Dr_Memon,0,none,ct_angio
+V10664,P1046,Gastroenterology,post_surgery_followup,follow_up,Dr_Memon,60,xray,ct_abdomen
+V10665,P1233,Pulmonology,chronic_cough,follow_up,Dr_Peri,180,ultrasound,chest_xray
+V10666,P1392,Gastroenterology,post_surgery_followup,new,Dr_Vig,0,none,ultrasound_abdomen
+V10667,P1231,Cardiology,chest_pain,follow_up,Dr_Peri,0,ct,chest_xray
+V10668,P1324,Pulmonology,tb_followup,new,Dr_Palan,0,none,chest_xray
+V10669,P1084,Neurology,severe_headache,follow_up,Dr_Palan,90,ultrasound,ct_head
+V10670,P1312,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,xray_limb
+V10671,P1097,General Medicine,general_checkup,new,Dr_Bali,0,none,xray_chest
+V10672,P1324,General Medicine,diabetes_followup,new,Dr_Magar,0,none,none
+V10673,P1301,Gastroenterology,abdominal_pain,follow_up,Dr_Patla,60,none,ct_abdomen
+V10674,P1221,Gastroenterology,jaundice,follow_up,Dr_Bera,90,mri,ultrasound_abdomen
+V10675,P1065,Cardiology,palpitations,follow_up,Dr_Bawa,14,mri,ecg_only
+V10676,P1214,Gastroenterology,post_surgery_followup,follow_up,Dr_Prabhu,30,ct,none
+V10677,P1231,Orthopedics,fracture_suspected,new,Dr_Palan,0,none,mri_joint
+V10678,P1262,Pulmonology,tb_followup,new,Dr_Varma,0,none,ct_chest
+V10679,P1283,General Medicine,fever_evaluation,new,Dr_Bawa,0,none,none
+V10680,P1351,Pulmonology,tb_followup,new,Dr_Palan,0,none,ct_chest
+V10681,P1091,Gastroenterology,post_surgery_followup,follow_up,Dr_Varma,90,none,ct_abdomen
+V10682,P1287,Neurology,post_stroke_followup,follow_up,Dr_Vig,90,ultrasound,mri_brain
+V10683,P1273,Pulmonology,chronic_cough,follow_up,Dr_Memon,0,none,chest_xray
+V10684,P1027,General Medicine,fever_evaluation,new,Dr_Bera,0,none,ultrasound_abdomen
+V10685,P1349,Pulmonology,breathing_difficulty,follow_up,Dr_Palan,180,ct,chest_xray
+V10686,P1277,Cardiology,palpitations,follow_up,Dr_Bhasin,60,mri,ecg_only
+V10687,P1380,General Medicine,diabetes_followup,new,Dr_Memon,0,none,none
+V10688,P1356,Pulmonology,tb_followup,follow_up,Dr_Bali,30,ultrasound,none
+V10689,P1350,Pulmonology,tb_followup,new,Dr_Palan,0,none,chest_xray
+V10690,P1317,Neurology,severe_headache,follow_up,Dr_Palan,90,ct,mri_brain
+V10691,P1279,General Medicine,diabetes_followup,new,Dr_Palan,0,none,ultrasound_abdomen
+V10692,P1150,Neurology,severe_headache,follow_up,Dr_Bhasin,7,xray,mri_brain
+V10693,P1061,Neurology,severe_headache,new,Dr_Memon,0,none,ct_head
+V10694,P1082,Gastroenterology,jaundice,new,Dr_Magar,0,none,ct_abdomen
+V10695,P1079,Cardiology,chest_pain,follow_up,Dr_Bawa,0,mri,ecg_only
+V10696,P1154,Neurology,post_stroke_followup,follow_up,Dr_Bhasin,180,ct,mri_brain
+V10697,P1094,Gastroenterology,abdominal_pain,follow_up,Dr_Bera,30,mri,ct_abdomen
+V10698,P1047,Pulmonology,breathing_difficulty,follow_up,Dr_Vig,14,ct,chest_xray
+V10699,P1111,Gastroenterology,post_surgery_followup,new,Dr_Memon,0,none,none
+V10700,P1332,Cardiology,chest_pain,follow_up,Dr_Magar,7,mri,none
+V10701,P1124,Cardiology,post_angioplasty_followup,follow_up,Dr_Bali,180,none,chest_xray
+V10702,P1276,General Medicine,general_checkup,new,Dr_Memon,0,none,none
+V10703,P1191,Gastroenterology,post_surgery_followup,new,Dr_Patla,0,none,ultrasound_abdomen
+V10704,P1333,Orthopedics,joint_pain,new,Dr_Bhasin,0,none,xray_limb
+V10705,P1395,Gastroenterology,post_surgery_followup,new,Dr_Bhasin,0,none,ultrasound_abdomen
+V10706,P1322,Orthopedics,post_surgery_followup,new,Dr_Bhasin,0,none,xray_limb
+V10707,P1359,General Medicine,general_checkup,follow_up,Dr_Bhasin,90,xray,xray_chest
+V10708,P1367,Pulmonology,breathing_difficulty,new,Dr_Patla,0,none,chest_xray
+V10709,P1128,Gastroenterology,abdominal_pain,follow_up,Dr_Peri,14,ultrasound,ultrasound_abdomen
+V10710,P1322,Neurology,seizure_evaluation,new,Dr_Bali,0,none,mri_brain
+V10711,P1273,Cardiology,post_angioplasty_followup,follow_up,Dr_Bhasin,180,mri,chest_xray
+V10712,P1037,Pulmonology,tb_followup,new,Dr_Vig,0,none,chest_xray
+V10713,P1044,Pulmonology,chronic_cough,new,Dr_Vig,0,none,chest_xray
+V10714,P1080,Gastroenterology,abdominal_pain,new,Dr_Bali,0,none,ct_abdomen
+V10715,P1279,Pulmonology,tb_followup,new,Dr_Vig,0,none,none
+V10716,P1373,General Medicine,general_checkup,follow_up,Dr_Patla,60,mri,xray_chest
+V10717,P1021,Cardiology,post_angioplasty_followup,follow_up,Dr_Memon,60,none,chest_xray
+V10718,P1383,General Medicine,diabetes_followup,new,Dr_Bali,0,none,ultrasound_abdomen
+V10719,P1262,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,mri_joint
+V10720,P1099,Cardiology,chest_pain,follow_up,Dr_Bawa,180,none,ecg_only
+V10721,P1281,Neurology,post_stroke_followup,new,Dr_Prabhu,0,none,mri_brain
+V10722,P1128,Cardiology,chest_pain,follow_up,Dr_Magar,14,ct,chest_xray
+V10723,P1335,Orthopedics,fracture_suspected,new,Dr_Bhasin,0,none,none
+V10724,P1162,Neurology,seizure_evaluation,new,Dr_Vig,0,none,ct_head
+V10725,P1299,Orthopedics,post_surgery_followup,follow_up,Dr_Varma,30,xray,xray_limb
+V10726,P1126,Orthopedics,post_surgery_followup,follow_up,Dr_Bali,14,ct,xray_limb
+V10727,P1375,Pulmonology,chronic_cough,new,Dr_Varma,0,none,ct_chest
+V10728,P1249,Gastroenterology,abdominal_pain,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10729,P1143,Orthopedics,post_surgery_followup,new,Dr_Palan,0,none,mri_joint
+V10730,P1039,General Medicine,fever_evaluation,follow_up,Dr_Memon,90,none,none
+V10731,P1296,Neurology,post_stroke_followup,new,Dr_Patla,0,none,mri_brain
+V10732,P1278,Gastroenterology,jaundice,follow_up,Dr_Bera,14,ultrasound,ultrasound_abdomen
+V10733,P1395,Gastroenterology,post_surgery_followup,follow_up,Dr_Bera,30,mri,ct_abdomen
+V10734,P1203,Pulmonology,tb_followup,new,Dr_Peri,0,none,none
+V10735,P1314,General Medicine,fever_evaluation,follow_up,Dr_Bera,30,xray,xray_chest
+V10736,P1289,General Medicine,fever_evaluation,follow_up,Dr_Magar,14,none,none
+V10737,P1249,Orthopedics,fracture_suspected,new,Dr_Peri,0,none,xray_limb
+V10738,P1105,Gastroenterology,jaundice,new,Dr_Magar,0,none,none
+V10739,P1020,General Medicine,general_checkup,new,Dr_Memon,0,none,none
+V10740,P1140,General Medicine,general_checkup,follow_up,Dr_Bawa,7,ultrasound,none
+V10741,P1187,Gastroenterology,post_surgery_followup,follow_up,Dr_Bhasin,60,ct,ultrasound_abdomen
+V10742,P1114,Gastroenterology,jaundice,new,Dr_Varma,0,none,ultrasound_abdomen
+V10743,P1246,Gastroenterology,abdominal_pain,new,Dr_Bera,0,none,ultrasound_abdomen
+V10744,P1117,Cardiology,post_angioplasty_followup,follow_up,Dr_Peri,7,xray,chest_xray
+V10745,P1308,General Medicine,fever_evaluation,follow_up,Dr_Bali,180,ct,none
+V10746,P1246,General Medicine,general_checkup,new,Dr_Bawa,0,none,xray_chest
+V10747,P1210,Cardiology,chest_pain,new,Dr_Bawa,0,none,ct_angio
+V10748,P1068,General Medicine,diabetes_followup,new,Dr_Bawa,0,none,xray_chest
+V10749,P1085,Pulmonology,breathing_difficulty,new,Dr_Bali,0,none,ct_chest
+V10750,P1288,General Medicine,fever_evaluation,follow_up,Dr_Palan,90,ct,ultrasound_abdomen
+V10751,P1110,Neurology,post_stroke_followup,follow_up,Dr_Magar,7,xray,none
+V10752,P1307,Orthopedics,post_surgery_followup,follow_up,Dr_Bera,60,mri,xray_limb
+V10753,P1370,General Medicine,general_checkup,follow_up,Dr_Bawa,60,none,none
+V10754,P1197,Orthopedics,fracture_suspected,new,Dr_Memon,0,none,mri_joint
+V10755,P1258,General Medicine,general_checkup,follow_up,Dr_Bawa,0,xray,none
+V10756,P1314,Gastroenterology,abdominal_pain,follow_up,Dr_Memon,60,none,ultrasound_abdomen
+V10757,P1337,Orthopedics,post_surgery_followup,new,Dr_Patla,0,none,mri_joint
+V10758,P1396,General Medicine,diabetes_followup,new,Dr_Bali,0,none,none
+V10759,P1022,General Medicine,diabetes_followup,new,Dr_Magar,0,none,none
+V10760,P1195,Pulmonology,tb_followup,follow_up,Dr_Palan,60,none,chest_xray
+V10761,P1130,Neurology,severe_headache,follow_up,Dr_Bhasin,14,mri,none
+V10762,P1209,Pulmonology,breathing_difficulty,new,Dr_Palan,0,none,ct_chest
+V10763,P1295,Gastroenterology,abdominal_pain,new,Dr_Bali,0,none,ct_abdomen
+V10764,P1352,Pulmonology,chronic_cough,new,Dr_Bera,0,none,chest_xray
+V10765,P1299,Pulmonology,chronic_cough,follow_up,Dr_Bali,60,ct,ct_chest
+V10766,P1348,Neurology,severe_headache,new,Dr_Memon,0,none,mri_brain
+V10767,P1189,Gastroenterology,post_surgery_followup,new,Dr_Prabhu,0,none,ct_abdomen
+V10768,P1396,General Medicine,general_checkup,follow_up,Dr_Vig,0,xray,none
+V10769,P1358,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,mri_joint
+V10770,P1281,Gastroenterology,post_surgery_followup,follow_up,Dr_Patla,7,ultrasound,none
+V10771,P1002,Cardiology,chest_pain,new,Dr_Bawa,0,none,ct_angio
+V10772,P1032,Pulmonology,breathing_difficulty,new,Dr_Bawa,0,none,chest_xray
+V10773,P1196,Neurology,post_stroke_followup,follow_up,Dr_Prabhu,90,mri,ct_head
+V10774,P1396,Orthopedics,post_surgery_followup,new,Dr_Patla,0,none,xray_limb
+V10775,P1336,Gastroenterology,jaundice,new,Dr_Bawa,0,none,ct_abdomen
+V10776,P1357,Orthopedics,post_surgery_followup,new,Dr_Patla,0,none,xray_limb
+V10777,P1335,Cardiology,chest_pain,new,Dr_Prabhu,0,none,ecg_only
+V10778,P1180,General Medicine,general_checkup,new,Dr_Peri,0,none,none
+V10779,P1377,General Medicine,fever_evaluation,follow_up,Dr_Memon,14,mri,ultrasound_abdomen
+V10780,P1178,Pulmonology,chronic_cough,new,Dr_Peri,0,none,ct_chest
+V10781,P1206,Gastroenterology,abdominal_pain,new,Dr_Bali,0,none,ct_abdomen
+V10782,P1286,Cardiology,post_angioplasty_followup,new,Dr_Bhasin,0,none,ecg_only
+V10783,P1131,Gastroenterology,post_surgery_followup,new,Dr_Magar,0,none,none
+V10784,P1288,Neurology,severe_headache,follow_up,Dr_Magar,90,ultrasound,none
+V10785,P1014,Neurology,severe_headache,new,Dr_Bali,0,none,mri_brain
+V10786,P1112,General Medicine,diabetes_followup,new,Dr_Varma,0,none,none
+V10787,P1180,Gastroenterology,post_surgery_followup,new,Dr_Prabhu,0,none,ultrasound_abdomen
+V10788,P1047,Neurology,post_stroke_followup,follow_up,Dr_Varma,0,mri,none
+V10789,P1243,Pulmonology,chronic_cough,new,Dr_Bawa,0,none,chest_xray
+V10790,P1382,General Medicine,fever_evaluation,new,Dr_Peri,0,none,none
+V10791,P1123,Pulmonology,breathing_difficulty,new,Dr_Peri,0,none,none
+V10792,P1182,Orthopedics,fracture_suspected,new,Dr_Bhasin,0,none,ct_bone
+V10793,P1339,Neurology,post_stroke_followup,new,Dr_Memon,0,none,none
+V10794,P1246,Pulmonology,tb_followup,new,Dr_Bawa,0,none,none
+V10795,P1251,Orthopedics,post_surgery_followup,new,Dr_Peri,0,none,mri_joint
+V10796,P1065,Cardiology,post_angioplasty_followup,follow_up,Dr_Magar,60,none,ct_angio
+V10797,P1201,General Medicine,fever_evaluation,new,Dr_Bhasin,0,none,none
+V10798,P1235,Pulmonology,tb_followup,new,Dr_Vig,0,none,chest_xray
+V10799,P1297,Cardiology,palpitations,new,Dr_Prabhu,0,none,chest_xray
+V10800,P1134,Orthopedics,joint_pain,new,Dr_Bawa,0,none,xray_limb
+V10801,P1094,Neurology,seizure_evaluation,new,Dr_Palan,0,none,mri_brain
+V10802,P1186,Neurology,seizure_evaluation,new,Dr_Bawa,0,none,ct_head
+V10803,P1294,General Medicine,fever_evaluation,follow_up,Dr_Palan,14,xray,none
+V10804,P1195,Orthopedics,fracture_suspected,follow_up,Dr_Palan,7,ultrasound,mri_joint
+V10805,P1090,Neurology,seizure_evaluation,new,Dr_Vig,0,none,mri_brain
+V10806,P1368,Pulmonology,chronic_cough,new,Dr_Memon,0,none,none
+V10807,P1024,Neurology,severe_headache,follow_up,Dr_Patla,7,ct,mri_brain
+V10808,P1322,Cardiology,palpitations,follow_up,Dr_Prabhu,14,ct,ct_angio
+V10809,P1131,Pulmonology,breathing_difficulty,new,Dr_Varma,0,none,none
+V10810,P1310,Orthopedics,post_surgery_followup,follow_up,Dr_Vig,60,xray,none
+V10811,P1145,Pulmonology,chronic_cough,follow_up,Dr_Magar,180,ultrasound,none
+V10812,P1195,Gastroenterology,jaundice,new,Dr_Bera,0,none,none
+V10813,P1327,Pulmonology,chronic_cough,follow_up,Dr_Bawa,30,none,chest_xray
+V10814,P1175,Orthopedics,joint_pain,new,Dr_Prabhu,0,none,ct_bone
+V10815,P1309,General Medicine,general_checkup,new,Dr_Magar,0,none,none
+V10816,P1185,General Medicine,diabetes_followup,new,Dr_Magar,0,none,none
+V10817,P1094,Cardiology,chest_pain,follow_up,Dr_Vig,14,none,chest_xray
+V10818,P1203,Cardiology,chest_pain,new,Dr_Magar,0,none,ct_angio
+V10819,P1013,Neurology,post_stroke_followup,follow_up,Dr_Bhasin,0,ct,mri_brain
+V10820,P1043,General Medicine,general_checkup,new,Dr_Peri,0,none,none
+V10821,P1226,General Medicine,fever_evaluation,new,Dr_Bera,0,none,xray_chest
+V10822,P1339,Pulmonology,chronic_cough,follow_up,Dr_Magar,180,mri,none
+V10823,P1280,Neurology,severe_headache,follow_up,Dr_Palan,60,xray,mri_brain
+V10824,P1233,General Medicine,diabetes_followup,follow_up,Dr_Bawa,30,mri,none
+V10825,P1273,Pulmonology,chronic_cough,new,Dr_Peri,0,none,none
+V10826,P1226,Pulmonology,chronic_cough,new,Dr_Bera,0,none,chest_xray
+V10827,P1000,Gastroenterology,abdominal_pain,new,Dr_Magar,0,none,ct_abdomen
+V10828,P1352,Neurology,seizure_evaluation,new,Dr_Bali,0,none,mri_brain
+V10829,P1305,Orthopedics,fracture_suspected,new,Dr_Peri,0,none,xray_limb
+V10830,P1287,Neurology,seizure_evaluation,new,Dr_Palan,0,none,mri_brain
+V10831,P1199,Neurology,severe_headache,new,Dr_Bali,0,none,mri_brain
+V10832,P1264,Gastroenterology,post_surgery_followup,follow_up,Dr_Prabhu,90,mri,none
+V10833,P1211,Orthopedics,fracture_suspected,new,Dr_Prabhu,0,none,xray_limb
+V10834,P1233,Gastroenterology,jaundice,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10835,P1164,Cardiology,chest_pain,new,Dr_Memon,0,none,chest_xray
+V10836,P1052,Pulmonology,chronic_cough,new,Dr_Magar,0,none,ct_chest
+V10837,P1119,Cardiology,chest_pain,new,Dr_Peri,0,none,chest_xray
+V10838,P1159,Neurology,seizure_evaluation,new,Dr_Patla,0,none,ct_head
+V10839,P1384,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,xray_limb
+V10840,P1240,Orthopedics,fracture_suspected,follow_up,Dr_Prabhu,180,ultrasound,mri_joint
+V10841,P1062,General Medicine,fever_evaluation,new,Dr_Magar,0,none,none
+V10842,P1017,Orthopedics,joint_pain,follow_up,Dr_Bhasin,60,xray,xray_limb
+V10843,P1348,Pulmonology,chronic_cough,new,Dr_Palan,0,none,chest_xray
+V10844,P1281,Gastroenterology,abdominal_pain,new,Dr_Vig,0,none,ultrasound_abdomen
+V10845,P1184,Cardiology,post_angioplasty_followup,new,Dr_Bhasin,0,none,chest_xray
+V10846,P1222,Pulmonology,breathing_difficulty,new,Dr_Prabhu,0,none,ct_chest
+V10847,P1202,Orthopedics,fracture_suspected,follow_up,Dr_Bawa,180,ultrasound,ct_bone
+V10848,P1079,Pulmonology,breathing_difficulty,new,Dr_Magar,0,none,chest_xray
+V10849,P1316,Pulmonology,tb_followup,new,Dr_Varma,0,none,ct_chest
+V10850,P1359,Gastroenterology,abdominal_pain,new,Dr_Peri,0,none,ultrasound_abdomen
+V10851,P1285,General Medicine,general_checkup,follow_up,Dr_Magar,90,xray,xray_chest
+V10852,P1193,Pulmonology,tb_followup,new,Dr_Patla,0,none,ct_chest
+V10853,P1224,Gastroenterology,jaundice,new,Dr_Magar,0,none,ultrasound_abdomen
+V10854,P1095,Gastroenterology,jaundice,new,Dr_Magar,0,none,ultrasound_abdomen
+V10855,P1306,Gastroenterology,abdominal_pain,new,Dr_Bera,0,none,ultrasound_abdomen
+V10856,P1134,Gastroenterology,jaundice,new,Dr_Vig,0,none,ct_abdomen
+V10857,P1375,Orthopedics,fracture_suspected,follow_up,Dr_Varma,180,mri,xray_limb
+V10858,P1369,Cardiology,post_angioplasty_followup,follow_up,Dr_Bali,7,mri,ct_angio
+V10859,P1392,Gastroenterology,abdominal_pain,follow_up,Dr_Varma,30,ct,ultrasound_abdomen
+V10860,P1267,General Medicine,fever_evaluation,new,Dr_Bera,0,none,xray_chest
+V10861,P1016,Orthopedics,fracture_suspected,new,Dr_Bhasin,0,none,xray_limb
+V10862,P1328,Neurology,post_stroke_followup,new,Dr_Bawa,0,none,mri_brain
+V10863,P1131,Cardiology,palpitations,new,Dr_Palan,0,none,chest_xray
+V10864,P1106,General Medicine,general_checkup,follow_up,Dr_Bhasin,30,none,none
+V10865,P1380,Neurology,seizure_evaluation,follow_up,Dr_Patla,180,mri,ct_head
+V10866,P1020,General Medicine,fever_evaluation,follow_up,Dr_Bhasin,7,mri,xray_chest
+V10867,P1371,Orthopedics,post_surgery_followup,new,Dr_Peri,0,none,xray_limb
+V10868,P1127,Gastroenterology,post_surgery_followup,follow_up,Dr_Memon,90,mri,ultrasound_abdomen
+V10869,P1054,General Medicine,diabetes_followup,new,Dr_Magar,0,none,none
+V10870,P1218,Cardiology,chest_pain,follow_up,Dr_Memon,30,mri,chest_xray
+V10871,P1080,Gastroenterology,post_surgery_followup,new,Dr_Varma,0,none,none
+V10872,P1281,Pulmonology,chronic_cough,new,Dr_Vig,0,none,chest_xray
+V10873,P1371,Pulmonology,tb_followup,new,Dr_Memon,0,none,chest_xray
+V10874,P1392,Gastroenterology,post_surgery_followup,new,Dr_Magar,0,none,ultrasound_abdomen
+V10875,P1203,Cardiology,post_angioplasty_followup,new,Dr_Prabhu,0,none,ct_angio
+V10876,P1265,Orthopedics,joint_pain,new,Dr_Peri,0,none,xray_limb
+V10877,P1161,Cardiology,post_angioplasty_followup,follow_up,Dr_Memon,60,mri,ct_angio
+V10878,P1292,Orthopedics,fracture_suspected,new,Dr_Varma,0,none,xray_limb
+V10879,P1135,Pulmonology,tb_followup,new,Dr_Prabhu,0,none,none
+V10880,P1047,Gastroenterology,jaundice,follow_up,Dr_Peri,90,none,ct_abdomen
+V10881,P1247,Orthopedics,joint_pain,follow_up,Dr_Palan,90,mri,mri_joint
+V10882,P1048,Gastroenterology,post_surgery_followup,new,Dr_Palan,0,none,none
+V10883,P1195,Cardiology,chest_pain,follow_up,Dr_Varma,14,ultrasound,ct_angio
+V10884,P1061,Orthopedics,post_surgery_followup,follow_up,Dr_Bawa,0,ultrasound,xray_limb
+V10885,P1268,Cardiology,palpitations,new,Dr_Bera,0,none,chest_xray
+V10886,P1357,Orthopedics,fracture_suspected,new,Dr_Palan,0,none,none
+V10887,P1228,Gastroenterology,post_surgery_followup,new,Dr_Peri,0,none,ultrasound_abdomen
+V10888,P1201,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,xray_limb
+V10889,P1025,Gastroenterology,jaundice,new,Dr_Bali,0,none,ct_abdomen
+V10890,P1396,General Medicine,fever_evaluation,follow_up,Dr_Magar,60,xray,none
+V10891,P1333,Gastroenterology,abdominal_pain,follow_up,Dr_Palan,60,xray,ultrasound_abdomen
+V10892,P1136,Neurology,seizure_evaluation,follow_up,Dr_Bawa,0,none,mri_brain
+V10893,P1216,Pulmonology,chronic_cough,new,Dr_Varma,0,none,ct_chest
+V10894,P1012,Pulmonology,breathing_difficulty,follow_up,Dr_Bawa,180,ultrasound,ct_chest
+V10895,P1225,Cardiology,chest_pain,new,Dr_Varma,0,none,chest_xray
+V10896,P1372,Cardiology,chest_pain,follow_up,Dr_Peri,60,xray,ecg_only
+V10897,P1147,Cardiology,palpitations,follow_up,Dr_Bhasin,14,ultrasound,ct_angio
+V10898,P1169,Orthopedics,post_surgery_followup,new,Dr_Peri,0,none,xray_limb
+V10899,P1384,Pulmonology,tb_followup,new,Dr_Palan,0,none,none
+V10900,P1355,General Medicine,diabetes_followup,new,Dr_Bawa,0,none,ultrasound_abdomen
+V10901,P1269,Cardiology,palpitations,new,Dr_Prabhu,0,none,chest_xray
+V10902,P1356,Gastroenterology,jaundice,new,Dr_Vig,0,none,none
+V10903,P1034,Neurology,post_stroke_followup,new,Dr_Vig,0,none,mri_brain
+V10904,P1055,Cardiology,palpitations,follow_up,Dr_Vig,30,xray,none
+V10905,P1260,General Medicine,fever_evaluation,follow_up,Dr_Magar,180,mri,none
+V10906,P1095,Orthopedics,post_surgery_followup,follow_up,Dr_Memon,90,none,xray_limb
+V10907,P1271,Pulmonology,chronic_cough,new,Dr_Palan,0,none,chest_xray
+V10908,P1177,General Medicine,general_checkup,new,Dr_Prabhu,0,none,none
+V10909,P1256,Pulmonology,breathing_difficulty,follow_up,Dr_Bali,180,none,none
+V10910,P1143,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,ct_bone
+V10911,P1044,General Medicine,general_checkup,new,Dr_Vig,0,none,none
+V10912,P1320,General Medicine,fever_evaluation,new,Dr_Bawa,0,none,xray_chest
+V10913,P1159,Gastroenterology,jaundice,new,Dr_Bera,0,none,ultrasound_abdomen
+V10914,P1070,Gastroenterology,post_surgery_followup,follow_up,Dr_Peri,180,xray,ultrasound_abdomen
+V10915,P1361,Gastroenterology,abdominal_pain,new,Dr_Bera,0,none,ct_abdomen
+V10916,P1289,Orthopedics,joint_pain,new,Dr_Memon,0,none,none
+V10917,P1060,Orthopedics,joint_pain,follow_up,Dr_Bera,90,none,mri_joint
+V10918,P1211,Neurology,seizure_evaluation,new,Dr_Vig,0,none,none
+V10919,P1140,Orthopedics,fracture_suspected,new,Dr_Bera,0,none,xray_limb
+V10920,P1313,Gastroenterology,jaundice,follow_up,Dr_Bawa,7,mri,ultrasound_abdomen
+V10921,P1351,Cardiology,palpitations,new,Dr_Magar,0,none,chest_xray
+V10922,P1309,Neurology,post_stroke_followup,follow_up,Dr_Bera,180,ultrasound,mri_brain
+V10923,P1070,Orthopedics,fracture_suspected,new,Dr_Bali,0,none,mri_joint
+V10924,P1007,Pulmonology,chronic_cough,new,Dr_Vig,0,none,none
+V10925,P1387,Orthopedics,fracture_suspected,new,Dr_Magar,0,none,mri_joint
+V10926,P1250,General Medicine,general_checkup,follow_up,Dr_Peri,30,ultrasound,none
+V10927,P1311,General Medicine,general_checkup,follow_up,Dr_Bali,60,mri,none
+V10928,P1268,General Medicine,diabetes_followup,follow_up,Dr_Memon,0,ultrasound,none
+V10929,P1021,Orthopedics,post_surgery_followup,new,Dr_Palan,0,none,xray_limb
+V10930,P1198,Gastroenterology,post_surgery_followup,follow_up,Dr_Peri,14,ultrasound,ultrasound_abdomen
+V10931,P1155,Pulmonology,chronic_cough,new,Dr_Prabhu,0,none,ct_chest
+V10932,P1027,General Medicine,diabetes_followup,follow_up,Dr_Magar,180,ultrasound,xray_chest
+V10933,P1256,Cardiology,chest_pain,follow_up,Dr_Palan,60,xray,chest_xray
+V10934,P1165,Neurology,severe_headache,new,Dr_Bawa,0,none,none
+V10935,P1103,Neurology,severe_headache,new,Dr_Palan,0,none,mri_brain
+V10936,P1364,Orthopedics,post_surgery_followup,follow_up,Dr_Bhasin,0,ultrasound,ct_bone
+V10937,P1043,Gastroenterology,post_surgery_followup,new,Dr_Memon,0,none,ct_abdomen
+V10938,P1081,Neurology,post_stroke_followup,new,Dr_Bera,0,none,none
+V10939,P1289,General Medicine,fever_evaluation,new,Dr_Bera,0,none,xray_chest
+V10940,P1364,Cardiology,palpitations,new,Dr_Palan,0,none,ecg_only
+V10941,P1228,Pulmonology,tb_followup,new,Dr_Bera,0,none,none
+V10942,P1001,Gastroenterology,jaundice,new,Dr_Magar,0,none,none
+V10943,P1278,Cardiology,post_angioplasty_followup,follow_up,Dr_Peri,7,mri,ct_angio
+V10944,P1232,Neurology,seizure_evaluation,new,Dr_Bawa,0,none,ct_head
+V10945,P1280,Pulmonology,tb_followup,follow_up,Dr_Peri,0,xray,chest_xray
+V10946,P1334,Pulmonology,breathing_difficulty,new,Dr_Patla,0,none,ct_chest
+V10947,P1308,Pulmonology,chronic_cough,follow_up,Dr_Patla,0,ultrasound,none
+V10948,P1082,General Medicine,general_checkup,follow_up,Dr_Palan,90,mri,none
+V10949,P1287,Orthopedics,joint_pain,follow_up,Dr_Varma,0,none,mri_joint
+V10950,P1165,Pulmonology,chronic_cough,follow_up,Dr_Bali,180,mri,chest_xray
+V10951,P1241,Orthopedics,fracture_suspected,follow_up,Dr_Prabhu,14,mri,xray_limb
+V10952,P1107,General Medicine,fever_evaluation,follow_up,Dr_Bhasin,60,mri,ultrasound_abdomen
+V10953,P1247,General Medicine,diabetes_followup,follow_up,Dr_Palan,14,ultrasound,none
+V10954,P1162,Pulmonology,tb_followup,follow_up,Dr_Bawa,14,xray,ct_chest
+V10955,P1254,Gastroenterology,post_surgery_followup,follow_up,Dr_Magar,180,xray,none
+V10956,P1119,General Medicine,general_checkup,follow_up,Dr_Patla,0,none,none
+V10957,P1060,General Medicine,fever_evaluation,follow_up,Dr_Bali,30,none,none
+V10958,P1286,General Medicine,fever_evaluation,new,Dr_Peri,0,none,none
+V10959,P1130,Cardiology,palpitations,new,Dr_Memon,0,none,chest_xray
+V10960,P1003,Cardiology,post_angioplasty_followup,new,Dr_Bali,0,none,ecg_only
+V10961,P1315,Cardiology,chest_pain,new,Dr_Varma,0,none,none
+V10962,P1245,Neurology,severe_headache,follow_up,Dr_Magar,7,ultrasound,none
+V10963,P1274,Pulmonology,chronic_cough,follow_up,Dr_Bali,90,none,none
+V10964,P1153,Gastroenterology,post_surgery_followup,follow_up,Dr_Memon,60,none,ultrasound_abdomen
+V10965,P1350,Pulmonology,chronic_cough,new,Dr_Bera,0,none,chest_xray
+V10966,P1015,Pulmonology,chronic_cough,follow_up,Dr_Bera,60,mri,chest_xray
+V10967,P1304,Cardiology,palpitations,follow_up,Dr_Varma,90,none,chest_xray
+V10968,P1044,Neurology,severe_headache,new,Dr_Prabhu,0,none,ct_head
+V10969,P1154,Orthopedics,fracture_suspected,new,Dr_Patla,0,none,mri_joint
+V10970,P1047,Neurology,post_stroke_followup,new,Dr_Magar,0,none,none
+V10971,P1078,Orthopedics,joint_pain,follow_up,Dr_Palan,180,mri,xray_limb
+V10972,P1167,Orthopedics,fracture_suspected,follow_up,Dr_Memon,90,xray,xray_limb
+V10973,P1018,Neurology,seizure_evaluation,follow_up,Dr_Memon,0,none,ct_head
+V10974,P1022,General Medicine,diabetes_followup,follow_up,Dr_Varma,30,none,xray_chest
+V10975,P1392,General Medicine,diabetes_followup,new,Dr_Bawa,0,none,none
+V10976,P1327,Orthopedics,joint_pain,new,Dr_Prabhu,0,none,xray_limb
+V10977,P1163,Neurology,post_stroke_followup,new,Dr_Bera,0,none,ct_head
+V10978,P1058,Cardiology,post_angioplasty_followup,follow_up,Dr_Bhasin,7,mri,chest_xray
+V10979,P1163,Pulmonology,breathing_difficulty,follow_up,Dr_Prabhu,60,xray,chest_xray
+V10980,P1159,Gastroenterology,jaundice,new,Dr_Patla,0,none,ultrasound_abdomen
+V10981,P1241,General Medicine,fever_evaluation,new,Dr_Patla,0,none,xray_chest
+V10982,P1200,Orthopedics,post_surgery_followup,follow_up,Dr_Bawa,90,ultrasound,ct_bone
+V10983,P1159,Pulmonology,breathing_difficulty,follow_up,Dr_Vig,180,mri,chest_xray
+V10984,P1386,Neurology,post_stroke_followup,new,Dr_Palan,0,none,mri_brain
+V10985,P1233,Pulmonology,tb_followup,follow_up,Dr_Magar,30,xray,none
+V10986,P1073,Gastroenterology,jaundice,follow_up,Dr_Bali,7,ct,ct_abdomen
+V10987,P1166,Neurology,seizure_evaluation,new,Dr_Magar,0,none,ct_head
+V10988,P1245,Neurology,severe_headache,new,Dr_Varma,0,none,mri_brain
+V10989,P1065,Gastroenterology,abdominal_pain,new,Dr_Palan,0,none,ct_abdomen
+V10990,P1166,Gastroenterology,post_surgery_followup,new,Dr_Prabhu,0,none,ct_abdomen
+V10991,P1205,Gastroenterology,jaundice,new,Dr_Peri,0,none,ct_abdomen
+V10992,P1246,Neurology,severe_headache,new,Dr_Palan,0,none,mri_brain
+V10993,P1222,Gastroenterology,jaundice,new,Dr_Peri,0,none,ultrasound_abdomen
+V10994,P1342,Cardiology,post_angioplasty_followup,follow_up,Dr_Bawa,180,ultrasound,chest_xray
+V10995,P1305,Neurology,seizure_evaluation,follow_up,Dr_Magar,7,ct,none
+V10996,P1035,Gastroenterology,abdominal_pain,follow_up,Dr_Bawa,180,ultrasound,ultrasound_abdomen
+V10997,P1330,General Medicine,fever_evaluation,new,Dr_Bera,0,none,ultrasound_abdomen
+V10998,P1386,General Medicine,fever_evaluation,follow_up,Dr_Vig,7,ultrasound,none
+V10999,P1199,Gastroenterology,post_surgery_followup,new,Dr_Peri,0,none,ct_abdomen
+V11000,P1162,Pulmonology,tb_followup,follow_up,Dr_Vig,14,ultrasound,ct_chest
+V11001,P1176,Cardiology,post_angioplasty_followup,new,Dr_Memon,0,none,ct_angio
+V11002,P1065,Pulmonology,breathing_difficulty,new,Dr_Memon,0,none,none
+V11003,P1000,General Medicine,diabetes_followup,follow_up,Dr_Varma,0,ct,ultrasound_abdomen
+V11004,P1120,Neurology,post_stroke_followup,follow_up,Dr_Vig,14,ultrasound,mri_brain
+V11005,P1222,Gastroenterology,abdominal_pain,follow_up,Dr_Magar,7,xray,ct_abdomen
+V11006,P1184,Neurology,severe_headache,new,Dr_Vig,0,none,ct_head
+V11007,P1005,Cardiology,post_angioplasty_followup,new,Dr_Palan,0,none,ecg_only
+V11008,P1336,Neurology,severe_headache,new,Dr_Vig,0,none,none
+V11009,P1233,General Medicine,diabetes_followup,follow_up,Dr_Bawa,7,ultrasound,none
+V11010,P1282,Neurology,seizure_evaluation,new,Dr_Bera,0,none,mri_brain
+V11011,P1003,Gastroenterology,jaundice,follow_up,Dr_Peri,90,mri,ultrasound_abdomen
+V11012,P1279,Gastroenterology,jaundice,new,Dr_Patla,0,none,ct_abdomen
+V11013,P1360,Pulmonology,breathing_difficulty,follow_up,Dr_Palan,0,xray,ct_chest
+V11014,P1269,Pulmonology,chronic_cough,new,Dr_Memon,0,none,none
+V11015,P1045,Orthopedics,joint_pain,follow_up,Dr_Vig,90,none,ct_bone
+V11016,P1276,Gastroenterology,jaundice,follow_up,Dr_Varma,60,none,ultrasound_abdomen
+V11017,P1262,Neurology,post_stroke_followup,follow_up,Dr_Bali,14,ct,ct_head
+V11018,P1018,General Medicine,diabetes_followup,follow_up,Dr_Palan,180,mri,none
+V11019,P1322,Neurology,post_stroke_followup,new,Dr_Patla,0,none,mri_brain
+V11020,P1149,General Medicine,diabetes_followup,new,Dr_Magar,0,none,xray_chest
+V11021,P1258,Cardiology,palpitations,new,Dr_Bawa,0,none,chest_xray
+V11022,P1131,Cardiology,post_angioplasty_followup,new,Dr_Bera,0,none,none
+V11023,P1378,Orthopedics,post_surgery_followup,new,Dr_Bera,0,none,xray_limb
+V11024,P1358,Orthopedics,joint_pain,new,Dr_Memon,0,none,mri_joint
+V11025,P1175,Cardiology,chest_pain,follow_up,Dr_Bera,180,ultrasound,ecg_only
+V11026,P1211,Neurology,severe_headache,follow_up,Dr_Palan,90,xray,ct_head
+V11027,P1375,Pulmonology,breathing_difficulty,follow_up,Dr_Bhasin,0,xray,ct_chest
+V11028,P1243,Pulmonology,chronic_cough,follow_up,Dr_Memon,7,ultrasound,ct_chest
+V11029,P1199,Neurology,seizure_evaluation,new,Dr_Bali,0,none,ct_head
+V11030,P1229,Neurology,post_stroke_followup,new,Dr_Memon,0,none,mri_brain
+V11031,P1021,Cardiology,post_angioplasty_followup,follow_up,Dr_Bali,60,ct,chest_xray
+V11032,P1136,Cardiology,palpitations,follow_up,Dr_Bali,30,xray,ecg_only
+V11033,P1301,Orthopedics,post_surgery_followup,new,Dr_Palan,0,none,none
+V11034,P1160,Gastroenterology,abdominal_pain,follow_up,Dr_Bhasin,0,ultrasound,ultrasound_abdomen
+V11035,P1053,General Medicine,general_checkup,new,Dr_Palan,0,none,none
+V11036,P1098,Cardiology,chest_pain,follow_up,Dr_Patla,60,xray,none
+V11037,P1326,Cardiology,post_angioplasty_followup,follow_up,Dr_Bhasin,180,mri,chest_xray
+V11038,P1336,General Medicine,diabetes_followup,follow_up,Dr_Bera,0,xray,none
+V11039,P1239,General Medicine,fever_evaluation,follow_up,Dr_Prabhu,180,ultrasound,none
+V11040,P1341,Pulmonology,chronic_cough,new,Dr_Bhasin,0,none,chest_xray
+V11041,P1031,Neurology,seizure_evaluation,new,Dr_Patla,0,none,ct_head
+V11042,P1135,Orthopedics,joint_pain,new,Dr_Peri,0,none,ct_bone
+V11043,P1091,General Medicine,general_checkup,new,Dr_Memon,0,none,none
+V11044,P1111,Gastroenterology,post_surgery_followup,new,Dr_Magar,0,none,ct_abdomen
+V11045,P1052,Cardiology,chest_pain,new,Dr_Palan,0,none,chest_xray
+V11046,P1228,Cardiology,palpitations,new,Dr_Vig,0,none,chest_xray
+V11047,P1019,General Medicine,general_checkup,new,Dr_Palan,0,none,none
+V11048,P1200,Gastroenterology,abdominal_pain,new,Dr_Magar,0,none,ultrasound_abdomen
+V11049,P1206,General Medicine,fever_evaluation,new,Dr_Patla,0,none,none
+V11050,P1352,Neurology,severe_headache,follow_up,Dr_Varma,14,ct,mri_brain
+V11051,P1323,General Medicine,fever_evaluation,new,Dr_Varma,0,none,xray_chest
+V11052,P1235,Pulmonology,tb_followup,new,Dr_Memon,0,none,chest_xray
+V11053,P1196,General Medicine,fever_evaluation,new,Dr_Bali,0,none,ultrasound_abdomen
+V11054,P1322,General Medicine,general_checkup,new,Dr_Vig,0,none,none
+V11055,P1097,Orthopedics,fracture_suspected,new,Dr_Palan,0,none,none
+V11056,P1122,Neurology,seizure_evaluation,new,Dr_Memon,0,none,mri_brain
+V11057,P1255,Gastroenterology,jaundice,follow_up,Dr_Patla,0,ct,ultrasound_abdomen
+V11058,P1369,Cardiology,palpitations,new,Dr_Vig,0,none,ct_angio
+V11059,P1234,General Medicine,diabetes_followup,new,Dr_Bawa,0,none,none
+V11060,P1036,Cardiology,post_angioplasty_followup,new,Dr_Vig,0,none,chest_xray
+V11061,P1316,Cardiology,chest_pain,follow_up,Dr_Bera,0,xray,ct_angio
+V11062,P1157,Cardiology,palpitations,follow_up,Dr_Bawa,0,none,chest_xray
+V11063,P1304,Gastroenterology,abdominal_pain,new,Dr_Peri,0,none,ultrasound_abdomen
+V11064,P1377,General Medicine,general_checkup,new,Dr_Vig,0,none,none
+V11065,P1070,Pulmonology,breathing_difficulty,follow_up,Dr_Bawa,7,ct,chest_xray
+V11066,P1140,Orthopedics,joint_pain,new,Dr_Varma,0,none,xray_limb
+V11067,P1224,Orthopedics,post_surgery_followup,new,Dr_Bhasin,0,none,mri_joint
+V11068,P1323,Gastroenterology,jaundice,follow_up,Dr_Patla,30,none,ultrasound_abdomen
+V11069,P1091,Cardiology,post_angioplasty_followup,follow_up,Dr_Prabhu,30,ultrasound,ct_angio
+V11070,P1105,Orthopedics,post_surgery_followup,new,Dr_Magar,0,none,xray_limb
+V11071,P1089,Gastroenterology,post_surgery_followup,new,Dr_Bera,0,none,ct_abdomen
+V11072,P1313,Cardiology,post_angioplasty_followup,follow_up,Dr_Prabhu,14,ultrasound,chest_xray
+V11073,P1120,Orthopedics,fracture_suspected,follow_up,Dr_Bhasin,60,ct,mri_joint
+V11074,P1276,Gastroenterology,abdominal_pain,new,Dr_Vig,0,none,ct_abdomen
+V11075,P1141,Cardiology,chest_pain,new,Dr_Bera,0,none,ct_angio
+V11076,P1242,Neurology,severe_headache,new,Dr_Patla,0,none,ct_head
+V11077,P1186,Pulmonology,breathing_difficulty,new,Dr_Varma,0,none,ct_chest
+V11078,P1388,Neurology,severe_headache,new,Dr_Patla,0,none,none
+V11079,P1090,Orthopedics,fracture_suspected,new,Dr_Bhasin,0,none,xray_limb
+V11080,P1120,General Medicine,general_checkup,follow_up,Dr_Varma,30,xray,none
+V11081,P1166,Orthopedics,fracture_suspected,new,Dr_Bhasin,0,none,xray_limb
+V11082,P1211,Orthopedics,joint_pain,follow_up,Dr_Bhasin,30,mri,xray_limb
+V11083,P1223,Orthopedics,fracture_suspected,follow_up,Dr_Magar,7,ultrasound,xray_limb
+V11084,P1234,General Medicine,fever_evaluation,follow_up,Dr_Prabhu,7,ct,xray_chest
+V11085,P1354,Gastroenterology,abdominal_pain,new,Dr_Bhasin,0,none,none
+V11086,P1234,Neurology,severe_headache,follow_up,Dr_Peri,14,mri,ct_head
+V11087,P1326,Gastroenterology,abdominal_pain,follow_up,Dr_Memon,180,xray,ultrasound_abdomen
+V11088,P1267,Neurology,severe_headache,follow_up,Dr_Magar,14,none,mri_brain
+V11089,P1376,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,xray_limb
+V11090,P1302,Orthopedics,post_surgery_followup,follow_up,Dr_Bali,0,none,none
+V11091,P1375,Gastroenterology,abdominal_pain,new,Dr_Bali,0,none,ultrasound_abdomen
+V11092,P1356,Cardiology,palpitations,new,Dr_Bhasin,0,none,ct_angio
+V11093,P1006,General Medicine,diabetes_followup,new,Dr_Peri,0,none,xray_chest
+V11094,P1151,Orthopedics,post_surgery_followup,follow_up,Dr_Patla,30,ct,xray_limb
+V11095,P1235,Gastroenterology,post_surgery_followup,follow_up,Dr_Magar,30,xray,none
+V11096,P1207,Orthopedics,joint_pain,follow_up,Dr_Palan,90,none,mri_joint
+V11097,P1036,Neurology,post_stroke_followup,new,Dr_Patla,0,none,ct_head
+V11098,P1385,Pulmonology,tb_followup,follow_up,Dr_Memon,60,xray,ct_chest
+V11099,P1041,Gastroenterology,jaundice,follow_up,Dr_Patla,60,ct,none
+V11100,P1056,Neurology,seizure_evaluation,new,Dr_Patla,0,none,mri_brain
+V11101,P1089,General Medicine,diabetes_followup,follow_up,Dr_Memon,90,xray,xray_chest
+V11102,P1171,Orthopedics,post_surgery_followup,new,Dr_Magar,0,none,ct_bone
+V11103,P1385,Gastroenterology,post_surgery_followup,new,Dr_Palan,0,none,ct_abdomen
+V11104,P1164,Pulmonology,chronic_cough,new,Dr_Bali,0,none,chest_xray
+V11105,P1032,Pulmonology,chronic_cough,new,Dr_Memon,0,none,ct_chest
+V11106,P1062,Neurology,post_stroke_followup,new,Dr_Memon,0,none,none
+V11107,P1231,Gastroenterology,jaundice,follow_up,Dr_Palan,180,none,ultrasound_abdomen
+V11108,P1234,Cardiology,chest_pain,new,Dr_Bera,0,none,chest_xray
+V11109,P1039,Cardiology,chest_pain,new,Dr_Palan,0,none,chest_xray
+V11110,P1077,Orthopedics,post_surgery_followup,follow_up,Dr_Patla,14,ultrasound,none
+V11111,P1277,Orthopedics,joint_pain,new,Dr_Magar,0,none,ct_bone
+V11112,P1010,Pulmonology,breathing_difficulty,new,Dr_Peri,0,none,none
+V11113,P1266,General Medicine,general_checkup,new,Dr_Varma,0,none,none
+V11114,P1167,Neurology,post_stroke_followup,follow_up,Dr_Memon,180,mri,mri_brain
+V11115,P1155,Gastroenterology,abdominal_pain,follow_up,Dr_Prabhu,7,ct,ultrasound_abdomen
+V11116,P1190,Pulmonology,breathing_difficulty,new,Dr_Prabhu,0,none,ct_chest
+V11117,P1085,Gastroenterology,abdominal_pain,follow_up,Dr_Prabhu,7,xray,none
+V11118,P1354,General Medicine,fever_evaluation,new,Dr_Bhasin,0,none,xray_chest
+V11119,P1162,Gastroenterology,abdominal_pain,new,Dr_Varma,0,none,ultrasound_abdomen
+V11120,P1287,General Medicine,fever_evaluation,follow_up,Dr_Varma,7,ct,none
+V11121,P1083,Gastroenterology,jaundice,new,Dr_Patla,0,none,ultrasound_abdomen
+V11122,P1255,Orthopedics,joint_pain,follow_up,Dr_Bera,0,mri,none
+V11123,P1169,General Medicine,diabetes_followup,new,Dr_Prabhu,0,none,ultrasound_abdomen
+V11124,P1386,Gastroenterology,post_surgery_followup,new,Dr_Bawa,0,none,ct_abdomen
+V11125,P1226,Pulmonology,tb_followup,new,Dr_Magar,0,none,none
+V11126,P1071,General Medicine,diabetes_followup,new,Dr_Patla,0,none,none
+V11127,P1112,Neurology,seizure_evaluation,new,Dr_Patla,0,none,mri_brain
+V11128,P1099,Gastroenterology,post_surgery_followup,new,Dr_Prabhu,0,none,ultrasound_abdomen
+V11129,P1042,Gastroenterology,jaundice,follow_up,Dr_Bhasin,60,ultrasound,ultrasound_abdomen
+V11130,P1162,Gastroenterology,post_surgery_followup,new,Dr_Patla,0,none,none
+V11131,P1184,Neurology,severe_headache,follow_up,Dr_Bali,14,ultrasound,mri_brain
+V11132,P1145,Pulmonology,chronic_cough,new,Dr_Magar,0,none,none
+V11133,P1044,Orthopedics,post_surgery_followup,follow_up,Dr_Palan,30,ultrasound,xray_limb
+V11134,P1372,Neurology,post_stroke_followup,follow_up,Dr_Bera,180,mri,mri_brain
+V11135,P1073,Orthopedics,joint_pain,new,Dr_Memon,0,none,none
+V11136,P1033,Gastroenterology,jaundice,new,Dr_Bali,0,none,ct_abdomen
+V11137,P1139,Neurology,severe_headache,follow_up,Dr_Palan,60,xray,ct_head
+V11138,P1195,Pulmonology,tb_followup,new,Dr_Prabhu,0,none,none
+V11139,P1155,Neurology,post_stroke_followup,follow_up,Dr_Peri,0,none,ct_head
+V11140,P1153,General Medicine,diabetes_followup,new,Dr_Vig,0,none,none
+V11141,P1147,Neurology,severe_headache,new,Dr_Palan,0,none,mri_brain
+V11142,P1014,Cardiology,palpitations,new,Dr_Bhasin,0,none,ct_angio
+V11143,P1185,Gastroenterology,jaundice,follow_up,Dr_Prabhu,90,ultrasound,none
+V11144,P1061,Pulmonology,tb_followup,follow_up,Dr_Patla,180,ct,chest_xray
+V11145,P1029,Orthopedics,joint_pain,new,Dr_Palan,0,none,xray_limb
+V11146,P1083,Cardiology,palpitations,new,Dr_Vig,0,none,none
+V11147,P1182,Cardiology,palpitations,new,Dr_Vig,0,none,none
+V11148,P1263,Orthopedics,post_surgery_followup,new,Dr_Bhasin,0,none,xray_limb
+V11149,P1085,Gastroenterology,jaundice,follow_up,Dr_Vig,180,ct,ultrasound_abdomen
+V11150,P1357,General Medicine,general_checkup,new,Dr_Bawa,0,none,none
+V11151,P1073,Cardiology,chest_pain,new,Dr_Varma,0,none,ecg_only
+V11152,P1210,Pulmonology,breathing_difficulty,new,Dr_Bera,0,none,ct_chest
+V11153,P1096,Gastroenterology,post_surgery_followup,follow_up,Dr_Memon,180,mri,ct_abdomen
+V11154,P1359,Cardiology,palpitations,new,Dr_Bhasin,0,none,chest_xray
+V11155,P1067,Cardiology,palpitations,new,Dr_Palan,0,none,chest_xray
+V11156,P1226,Gastroenterology,post_surgery_followup,follow_up,Dr_Varma,7,ct,ultrasound_abdomen
+V11157,P1060,Orthopedics,fracture_suspected,follow_up,Dr_Bera,90,xray,xray_limb
+V11158,P1107,Orthopedics,fracture_suspected,new,Dr_Bhasin,0,none,xray_limb
+V11159,P1396,Neurology,seizure_evaluation,new,Dr_Bhasin,0,none,ct_head
+V11160,P1337,Gastroenterology,post_surgery_followup,new,Dr_Bhasin,0,none,none
+V11161,P1022,Cardiology,palpitations,follow_up,Dr_Bhasin,180,none,none
+V11162,P1105,Gastroenterology,abdominal_pain,new,Dr_Varma,0,none,ultrasound_abdomen
+V11163,P1074,General Medicine,general_checkup,follow_up,Dr_Varma,14,xray,ultrasound_abdomen
+V11164,P1399,General Medicine,diabetes_followup,new,Dr_Bawa,0,none,xray_chest
+V11165,P1296,Cardiology,post_angioplasty_followup,new,Dr_Peri,0,none,none
+V11166,P1087,Gastroenterology,abdominal_pain,follow_up,Dr_Bhasin,7,mri,none
+V11167,P1243,Pulmonology,tb_followup,follow_up,Dr_Magar,90,none,chest_xray
+V11168,P1181,Neurology,seizure_evaluation,new,Dr_Peri,0,none,mri_brain
+V11169,P1389,Pulmonology,breathing_difficulty,new,Dr_Memon,0,none,chest_xray
+V11170,P1390,Pulmonology,tb_followup,new,Dr_Palan,0,none,chest_xray
+V11171,P1167,Neurology,severe_headache,new,Dr_Magar,0,none,mri_brain
+V11172,P1159,General Medicine,general_checkup,new,Dr_Bali,0,none,none
+V11173,P1219,Orthopedics,fracture_suspected,follow_up,Dr_Magar,90,ct,xray_limb
+V11174,P1345,Neurology,post_stroke_followup,new,Dr_Magar,0,none,mri_brain
+V11175,P1346,Cardiology,chest_pain,new,Dr_Bali,0,none,ct_angio
+V11176,P1052,General Medicine,fever_evaluation,new,Dr_Peri,0,none,none
+V11177,P1304,Neurology,severe_headache,new,Dr_Bali,0,none,mri_brain
+V11178,P1142,General Medicine,diabetes_followup,follow_up,Dr_Vig,30,ct,none
+V11179,P1308,Neurology,seizure_evaluation,new,Dr_Bera,0,none,mri_brain
+V11180,P1055,Cardiology,palpitations,new,Dr_Peri,0,none,ct_angio
+V11181,P1068,Cardiology,chest_pain,follow_up,Dr_Bhasin,30,none,none
+V11182,P1195,Gastroenterology,post_surgery_followup,new,Dr_Prabhu,0,none,ct_abdomen
+V11183,P1049,Cardiology,post_angioplasty_followup,follow_up,Dr_Magar,180,ultrasound,chest_xray
+V11184,P1338,Neurology,seizure_evaluation,new,Dr_Memon,0,none,ct_head
+V11185,P1276,Gastroenterology,abdominal_pain,follow_up,Dr_Patla,30,none,ultrasound_abdomen
+V11186,P1161,Neurology,seizure_evaluation,new,Dr_Patla,0,none,ct_head
+V11187,P1337,Pulmonology,tb_followup,new,Dr_Bali,0,none,chest_xray
+V11188,P1366,Neurology,seizure_evaluation,follow_up,Dr_Bawa,90,ultrasound,mri_brain
+V11189,P1350,Gastroenterology,post_surgery_followup,new,Dr_Memon,0,none,none
+V11190,P1259,Cardiology,palpitations,new,Dr_Bawa,0,none,none
+V11191,P1315,General Medicine,general_checkup,follow_up,Dr_Prabhu,14,none,xray_chest
+V11192,P1023,Orthopedics,joint_pain,new,Dr_Palan,0,none,xray_limb
+V11193,P1391,General Medicine,general_checkup,new,Dr_Bali,0,none,none
+V11194,P1182,Neurology,seizure_evaluation,new,Dr_Peri,0,none,ct_head
+V11195,P1331,Pulmonology,tb_followup,new,Dr_Palan,0,none,chest_xray
+V11196,P1156,Cardiology,palpitations,new,Dr_Memon,0,none,chest_xray
+V11197,P1235,General Medicine,general_checkup,follow_up,Dr_Bali,14,none,none
+V11198,P1301,Cardiology,palpitations,new,Dr_Bali,0,none,chest_xray
+V11199,P1050,Neurology,severe_headache,follow_up,Dr_Peri,14,ultrasound,mri_brain
+V11200,P1391,General Medicine,general_checkup,new,Dr_Prabhu,0,none,none
+V11201,P1223,Orthopedics,joint_pain,follow_up,Dr_Bhasin,180,mri,xray_limb
+V11202,P1135,Cardiology,palpitations,follow_up,Dr_Bali,180,xray,ct_angio
+V11203,P1047,General Medicine,diabetes_followup,new,Dr_Varma,0,none,none
+V11204,P1290,Gastroenterology,jaundice,new,Dr_Varma,0,none,ct_abdomen
+V11205,P1333,Pulmonology,tb_followup,follow_up,Dr_Bali,90,mri,chest_xray
+V11206,P1212,Neurology,seizure_evaluation,follow_up,Dr_Magar,90,mri,ct_head
+V11207,P1009,General Medicine,diabetes_followup,new,Dr_Bera,0,none,none
+V11208,P1109,General Medicine,diabetes_followup,follow_up,Dr_Prabhu,90,mri,none
+V11209,P1393,Neurology,post_stroke_followup,follow_up,Dr_Patla,60,xray,mri_brain
+V11210,P1075,Orthopedics,fracture_suspected,follow_up,Dr_Prabhu,180,ultrasound,xray_limb
+V11211,P1032,General Medicine,fever_evaluation,follow_up,Dr_Prabhu,180,ct,none
+V11212,P1131,General Medicine,diabetes_followup,new,Dr_Peri,0,none,xray_chest
+V11213,P1098,Cardiology,chest_pain,follow_up,Dr_Prabhu,30,ultrasound,ct_angio
+V11214,P1223,Neurology,post_stroke_followup,follow_up,Dr_Peri,7,ct,ct_head
+V11215,P1132,Pulmonology,tb_followup,follow_up,Dr_Vig,180,none,none
+V11216,P1248,Cardiology,chest_pain,follow_up,Dr_Bhasin,14,mri,chest_xray
+V11217,P1032,Neurology,seizure_evaluation,follow_up,Dr_Bhasin,30,xray,ct_head
+V11218,P1292,General Medicine,diabetes_followup,follow_up,Dr_Memon,90,mri,ultrasound_abdomen
+V11219,P1268,Pulmonology,chronic_cough,follow_up,Dr_Peri,60,none,ct_chest
+V11220,P1160,Pulmonology,tb_followup,follow_up,Dr_Palan,90,xray,none
+V11221,P1111,Orthopedics,fracture_suspected,new,Dr_Prabhu,0,none,xray_limb
+V11222,P1130,Gastroenterology,abdominal_pain,new,Dr_Varma,0,none,ct_abdomen
+V11223,P1057,Pulmonology,tb_followup,new,Dr_Vig,0,none,chest_xray
+V11224,P1142,Orthopedics,joint_pain,new,Dr_Varma,0,none,mri_joint
+V11225,P1010,General Medicine,diabetes_followup,new,Dr_Palan,0,none,none
+V11226,P1027,General Medicine,diabetes_followup,new,Dr_Memon,0,none,none
+V11227,P1327,General Medicine,general_checkup,follow_up,Dr_Vig,0,mri,ultrasound_abdomen
+V11228,P1226,Neurology,severe_headache,follow_up,Dr_Bali,14,ct,ct_head
+V11229,P1387,Orthopedics,joint_pain,new,Dr_Bera,0,none,none
+V11230,P1323,Pulmonology,tb_followup,new,Dr_Patla,0,none,chest_xray
+V11231,P1041,Neurology,seizure_evaluation,follow_up,Dr_Varma,90,ultrasound,none
+V11232,P1051,Orthopedics,post_surgery_followup,new,Dr_Bhasin,0,none,xray_limb
+V11233,P1308,General Medicine,diabetes_followup,follow_up,Dr_Magar,90,none,none
+V11234,P1328,General Medicine,fever_evaluation,follow_up,Dr_Vig,7,none,none
+V11235,P1321,Pulmonology,chronic_cough,follow_up,Dr_Bhasin,7,xray,ct_chest
+V11236,P1393,General Medicine,fever_evaluation,follow_up,Dr_Vig,30,ct,none
+V11237,P1376,Orthopedics,joint_pain,new,Dr_Bawa,0,none,mri_joint
+V11238,P1144,Orthopedics,fracture_suspected,new,Dr_Bera,0,none,xray_limb
+V11239,P1193,Gastroenterology,abdominal_pain,new,Dr_Patla,0,none,none
+V11240,P1331,Gastroenterology,post_surgery_followup,new,Dr_Bhasin,0,none,none
+V11241,P1101,Pulmonology,tb_followup,follow_up,Dr_Patla,30,mri,chest_xray
+V11242,P1133,Orthopedics,fracture_suspected,follow_up,Dr_Bera,60,none,xray_limb
+V11243,P1269,Neurology,seizure_evaluation,follow_up,Dr_Magar,0,xray,mri_brain
+V11244,P1097,Pulmonology,chronic_cough,follow_up,Dr_Bali,7,ultrasound,none
+V11245,P1307,Orthopedics,joint_pain,follow_up,Dr_Peri,30,xray,xray_limb
+V11246,P1074,Cardiology,palpitations,follow_up,Dr_Peri,60,ultrasound,none
+V11247,P1189,Gastroenterology,post_surgery_followup,follow_up,Dr_Bhasin,0,ultrasound,ultrasound_abdomen
+V11248,P1165,General Medicine,general_checkup,follow_up,Dr_Palan,30,ultrasound,none
+V11249,P1131,Cardiology,chest_pain,follow_up,Dr_Patla,14,xray,ct_angio
+V11250,P1181,Gastroenterology,post_surgery_followup,follow_up,Dr_Bawa,90,none,ultrasound_abdomen
+V11251,P1258,Gastroenterology,jaundice,new,Dr_Bali,0,none,ct_abdomen
+V11252,P1067,Gastroenterology,abdominal_pain,follow_up,Dr_Prabhu,7,mri,ultrasound_abdomen
+V11253,P1173,Neurology,severe_headache,new,Dr_Palan,0,none,mri_brain
+V11254,P1072,Pulmonology,breathing_difficulty,new,Dr_Bera,0,none,ct_chest
+V11255,P1143,General Medicine,general_checkup,follow_up,Dr_Prabhu,14,mri,none
+V11256,P1135,Gastroenterology,jaundice,new,Dr_Bera,0,none,ultrasound_abdomen
+V11257,P1251,Orthopedics,post_surgery_followup,follow_up,Dr_Vig,90,ultrasound,xray_limb
+V11258,P1076,Cardiology,chest_pain,new,Dr_Magar,0,none,chest_xray
+V11259,P1361,Neurology,seizure_evaluation,new,Dr_Magar,0,none,ct_head
+V11260,P1182,General Medicine,diabetes_followup,new,Dr_Magar,0,none,xray_chest
+V11261,P1368,Orthopedics,fracture_suspected,new,Dr_Peri,0,none,mri_joint
+V11262,P1092,Orthopedics,post_surgery_followup,new,Dr_Prabhu,0,none,xray_limb
+V11263,P1339,Gastroenterology,abdominal_pain,follow_up,Dr_Patla,60,mri,ultrasound_abdomen
+V11264,P1039,Orthopedics,joint_pain,follow_up,Dr_Varma,0,ct,ct_bone
+V11265,P1348,Cardiology,palpitations,new,Dr_Bhasin,0,none,ecg_only
+V11266,P1078,Cardiology,chest_pain,new,Dr_Palan,0,none,ct_angio
+V11267,P1232,General Medicine,general_checkup,follow_up,Dr_Patla,14,none,none
+V11268,P1231,Pulmonology,tb_followup,follow_up,Dr_Bawa,7,xray,none
+V11269,P1329,Pulmonology,chronic_cough,follow_up,Dr_Palan,0,mri,none
+V11270,P1195,Cardiology,palpitations,new,Dr_Peri,0,none,none
+V11271,P1204,Cardiology,chest_pain,follow_up,Dr_Bera,30,ultrasound,chest_xray
+V11272,P1385,General Medicine,fever_evaluation,new,Dr_Magar,0,none,none
+V11273,P1376,Pulmonology,tb_followup,follow_up,Dr_Varma,90,none,none
+V11274,P1262,Orthopedics,joint_pain,new,Dr_Bali,0,none,xray_limb
+V11275,P1288,Gastroenterology,jaundice,new,Dr_Bali,0,none,none
+V11276,P1314,Orthopedics,joint_pain,follow_up,Dr_Bhasin,0,mri,xray_limb
+V11277,P1237,General Medicine,fever_evaluation,follow_up,Dr_Palan,7,ultrasound,none
+V11278,P1331,Gastroenterology,abdominal_pain,new,Dr_Bali,0,none,ultrasound_abdomen
+V11279,P1244,Pulmonology,breathing_difficulty,follow_up,Dr_Vig,14,xray,ct_chest
+V11280,P1151,Gastroenterology,abdominal_pain,follow_up,Dr_Patla,60,none,ct_abdomen
+V11281,P1211,Cardiology,palpitations,follow_up,Dr_Bawa,180,ct,chest_xray
+V11282,P1299,Cardiology,post_angioplasty_followup,new,Dr_Palan,0,none,ct_angio
+V11283,P1091,Orthopedics,joint_pain,new,Dr_Bali,0,none,mri_joint
+V11284,P1152,Pulmonology,tb_followup,follow_up,Dr_Vig,30,mri,none
+V11285,P1174,Orthopedics,fracture_suspected,new,Dr_Palan,0,none,none
+V11286,P1132,General Medicine,fever_evaluation,new,Dr_Patla,0,none,xray_chest
+V11287,P1059,Cardiology,chest_pain,follow_up,Dr_Magar,90,ultrasound,ecg_only
+V11288,P1381,Gastroenterology,post_surgery_followup,new,Dr_Bawa,0,none,none
+V11289,P1315,Pulmonology,tb_followup,follow_up,Dr_Palan,90,ultrasound,none
+V11290,P1044,Orthopedics,fracture_suspected,new,Dr_Bhasin,0,none,mri_joint
+V11291,P1356,Orthopedics,fracture_suspected,new,Dr_Vig,0,none,xray_limb
+V11292,P1123,Neurology,post_stroke_followup,follow_up,Dr_Memon,7,none,ct_head
+V11293,P1237,Orthopedics,joint_pain,new,Dr_Bhasin,0,none,xray_limb
+V11294,P1078,General Medicine,diabetes_followup,new,Dr_Magar,0,none,none
+V11295,P1230,Gastroenterology,abdominal_pain,new,Dr_Bawa,0,none,none
+V11296,P1200,Cardiology,palpitations,new,Dr_Vig,0,none,ecg_only
+V11297,P1221,Neurology,seizure_evaluation,follow_up,Dr_Bawa,90,mri,none
+V11298,P1018,Neurology,seizure_evaluation,new,Dr_Bawa,0,none,mri_brain
+V11299,P1347,Neurology,severe_headache,follow_up,Dr_Memon,0,ultrasound,mri_brain
+V11300,P1283,Cardiology,palpitations,follow_up,Dr_Bali,30,none,ct_angio
+V11301,P1330,Pulmonology,chronic_cough,follow_up,Dr_Patla,7,ct,ct_chest
+V11302,P1240,Pulmonology,chronic_cough,new,Dr_Peri,0,none,ct_chest
+V11303,P1350,Pulmonology,tb_followup,follow_up,Dr_Palan,90,ultrasound,chest_xray
+V11304,P1150,General Medicine,diabetes_followup,new,Dr_Bali,0,none,none
+V11305,P1344,General Medicine,diabetes_followup,new,Dr_Magar,0,none,none
+V11306,P1082,Gastroenterology,abdominal_pain,new,Dr_Palan,0,none,ultrasound_abdomen
+V11307,P1247,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,xray_limb
+V11308,P1212,Neurology,seizure_evaluation,new,Dr_Memon,0,none,ct_head
+V11309,P1009,Pulmonology,chronic_cough,new,Dr_Bera,0,none,chest_xray
+V11310,P1257,Cardiology,chest_pain,new,Dr_Bhasin,0,none,ct_angio
+V11311,P1061,Gastroenterology,abdominal_pain,new,Dr_Varma,0,none,ct_abdomen
+V11312,P1393,Cardiology,post_angioplasty_followup,new,Dr_Bera,0,none,ecg_only
+V11313,P1263,Gastroenterology,post_surgery_followup,new,Dr_Patla,0,none,none
+V11314,P1224,Neurology,severe_headache,follow_up,Dr_Bawa,60,none,none
+V11315,P1021,Gastroenterology,abdominal_pain,new,Dr_Bhasin,0,none,none
+V11316,P1185,Orthopedics,post_surgery_followup,new,Dr_Magar,0,none,mri_joint
+V11317,P1255,General Medicine,fever_evaluation,new,Dr_Varma,0,none,none
+V11318,P1070,Cardiology,chest_pain,new,Dr_Bali,0,none,ecg_only
+V11319,P1003,Orthopedics,joint_pain,new,Dr_Memon,0,none,xray_limb
+V11320,P1136,Pulmonology,tb_followup,follow_up,Dr_Varma,90,xray,chest_xray
+V11321,P1385,Gastroenterology,jaundice,follow_up,Dr_Bera,180,ultrasound,ultrasound_abdomen
+V11322,P1209,Neurology,post_stroke_followup,follow_up,Dr_Varma,0,ultrasound,ct_head
+V11323,P1005,General Medicine,diabetes_followup,follow_up,Dr_Bhasin,14,ct,none
+V11324,P1395,Orthopedics,joint_pain,new,Dr_Patla,0,none,ct_bone
+V11325,P1328,Orthopedics,post_surgery_followup,new,Dr_Vig,0,none,none
+V11326,P1338,Gastroenterology,jaundice,new,Dr_Vig,0,none,ct_abdomen
+V11327,P1155,General Medicine,diabetes_followup,new,Dr_Varma,0,none,xray_chest
+V11328,P1143,Gastroenterology,post_surgery_followup,follow_up,Dr_Palan,30,ultrasound,ct_abdomen
+V11329,P1278,Gastroenterology,post_surgery_followup,follow_up,Dr_Palan,14,ultrasound,ct_abdomen
+V11330,P1154,Cardiology,chest_pain,new,Dr_Bali,0,none,ecg_only
+V11331,P1378,Orthopedics,post_surgery_followup,follow_up,Dr_Prabhu,7,none,xray_limb
+V11332,P1159,Gastroenterology,jaundice,follow_up,Dr_Bera,0,none,none
+V11333,P1276,Gastroenterology,jaundice,new,Dr_Prabhu,0,none,ct_abdomen
+V11334,P1258,Cardiology,post_angioplasty_followup,new,Dr_Varma,0,none,chest_xray
+V11335,P1259,Pulmonology,breathing_difficulty,new,Dr_Vig,0,none,none
+V11336,P1229,Pulmonology,tb_followup,follow_up,Dr_Magar,14,xray,none
+V11337,P1297,Gastroenterology,post_surgery_followup,follow_up,Dr_Vig,90,mri,none
+V11338,P1119,Pulmonology,chronic_cough,new,Dr_Palan,0,none,ct_chest
+V11339,P1071,General Medicine,general_checkup,new,Dr_Peri,0,none,xray_chest
+V11340,P1264,Gastroenterology,abdominal_pain,follow_up,Dr_Varma,30,none,ultrasound_abdomen
+V11341,P1217,Neurology,severe_headache,new,Dr_Bali,0,none,none
+V11342,P1243,Orthopedics,joint_pain,new,Dr_Vig,0,none,xray_limb
+V11343,P1301,Gastroenterology,post_surgery_followup,follow_up,Dr_Prabhu,60,ultrasound,ct_abdomen
+V11344,P1225,General Medicine,general_checkup,follow_up,Dr_Bali,180,xray,xray_chest
+V11345,P1065,Neurology,post_stroke_followup,new,Dr_Palan,0,none,mri_brain
+V11346,P1270,Cardiology,post_angioplasty_followup,new,Dr_Magar,0,none,chest_xray
+V11347,P1080,Gastroenterology,jaundice,follow_up,Dr_Bhasin,60,ultrasound,ultrasound_abdomen
+V11348,P1189,Gastroenterology,jaundice,new,Dr_Bera,0,none,ultrasound_abdomen
+V11349,P1156,Pulmonology,chronic_cough,new,Dr_Patla,0,none,ct_chest
+V11350,P1072,Gastroenterology,jaundice,new,Dr_Prabhu,0,none,none
+V11351,P1110,Orthopedics,post_surgery_followup,new,Dr_Bhasin,0,none,xray_limb
+V11352,P1034,Cardiology,palpitations,new,Dr_Prabhu,0,none,ct_angio
+V11353,P1172,Neurology,seizure_evaluation,follow_up,Dr_Bawa,7,xray,mri_brain
+V11354,P1235,Neurology,post_stroke_followup,new,Dr_Palan,0,none,ct_head
+V11355,P1319,General Medicine,diabetes_followup,new,Dr_Peri,0,none,ultrasound_abdomen
+V11356,P1173,Gastroenterology,abdominal_pain,follow_up,Dr_Magar,90,ct,ct_abdomen
+V11357,P1084,General Medicine,fever_evaluation,follow_up,Dr_Palan,14,mri,none
+V11358,P1329,Gastroenterology,abdominal_pain,new,Dr_Bawa,0,none,ct_abdomen
+V11359,P1387,Cardiology,post_angioplasty_followup,new,Dr_Magar,0,none,ct_angio
+V11360,P1009,Cardiology,post_angioplasty_followup,follow_up,Dr_Bera,0,ct,ecg_only
+V11361,P1125,General Medicine,diabetes_followup,new,Dr_Memon,0,none,none
+V11362,P1205,Gastroenterology,abdominal_pain,new,Dr_Patla,0,none,ultrasound_abdomen
+V11363,P1092,Neurology,severe_headache,follow_up,Dr_Varma,30,ct,ct_head
+V11364,P1050,Gastroenterology,abdominal_pain,new,Dr_Bera,0,none,ultrasound_abdomen
+V11365,P1045,Orthopedics,joint_pain,follow_up,Dr_Vig,7,none,ct_bone
+V11366,P1166,Orthopedics,fracture_suspected,follow_up,Dr_Prabhu,30,none,xray_limb
+V11367,P1211,Pulmonology,chronic_cough,new,Dr_Bhasin,0,none,chest_xray
+V11368,P1122,Gastroenterology,post_surgery_followup,new,Dr_Memon,0,none,ct_abdomen
+V11369,P1197,Cardiology,palpitations,new,Dr_Magar,0,none,ct_angio
+V11370,P1033,Neurology,severe_headache,new,Dr_Peri,0,none,none
+V11371,P1009,Pulmonology,tb_followup,follow_up,Dr_Vig,0,xray,ct_chest
+V11372,P1333,Orthopedics,joint_pain,follow_up,Dr_Magar,0,mri,xray_limb
+V11373,P1072,Pulmonology,tb_followup,follow_up,Dr_Peri,60,ultrasound,none
+V11374,P1284,Neurology,severe_headache,new,Dr_Magar,0,none,none
+V11375,P1317,Pulmonology,tb_followup,follow_up,Dr_Patla,0,ultrasound,chest_xray
+V11376,P1128,General Medicine,general_checkup,follow_up,Dr_Vig,7,mri,none
+V11377,P1144,Cardiology,chest_pain,follow_up,Dr_Bawa,0,ct,chest_xray
+V11378,P1357,Cardiology,chest_pain,follow_up,Dr_Prabhu,30,xray,ct_angio
+V11379,P1162,General Medicine,general_checkup,follow_up,Dr_Palan,30,ct,none
+V11380,P1164,Pulmonology,breathing_difficulty,new,Dr_Bawa,0,none,chest_xray
+V11381,P1354,Orthopedics,post_surgery_followup,follow_up,Dr_Bawa,30,none,none
+V11382,P1344,Orthopedics,joint_pain,follow_up,Dr_Palan,90,ultrasound,mri_joint
+V11383,P1275,Cardiology,post_angioplasty_followup,follow_up,Dr_Memon,0,ultrasound,ct_angio
+V11384,P1180,Neurology,post_stroke_followup,new,Dr_Bera,0,none,none
+V11385,P1356,Cardiology,chest_pain,new,Dr_Peri,0,none,ct_angio
+V11386,P1113,General Medicine,fever_evaluation,follow_up,Dr_Vig,90,ct,xray_chest
+V11387,P1314,General Medicine,general_checkup,follow_up,Dr_Peri,7,ultrasound,ultrasound_abdomen
+V11388,P1018,Pulmonology,chronic_cough,follow_up,Dr_Palan,60,xray,chest_xray
+V11389,P1326,Neurology,severe_headache,follow_up,Dr_Bawa,60,ultrasound,ct_head
+V11390,P1099,General Medicine,diabetes_followup,follow_up,Dr_Vig,60,mri,xray_chest
+V11391,P1301,Orthopedics,post_surgery_followup,new,Dr_Prabhu,0,none,none
+V11392,P1116,Gastroenterology,post_surgery_followup,follow_up,Dr_Peri,180,none,none
+V11393,P1354,General Medicine,diabetes_followup,follow_up,Dr_Vig,60,ultrasound,xray_chest
+V11394,P1218,General Medicine,diabetes_followup,follow_up,Dr_Patla,180,ct,none
+V11395,P1208,Pulmonology,breathing_difficulty,follow_up,Dr_Magar,30,ct,ct_chest
+V11396,P1022,General Medicine,fever_evaluation,new,Dr_Bali,0,none,none
+V11397,P1161,Cardiology,palpitations,new,Dr_Bhasin,0,none,ecg_only
+V11398,P1012,General Medicine,fever_evaluation,follow_up,Dr_Bali,0,xray,xray_chest
+V11399,P1168,Pulmonology,breathing_difficulty,follow_up,Dr_Bhasin,0,ultrasound,chest_xray
+V11400,P1012,Gastroenterology,post_surgery_followup,follow_up,Dr_Prabhu,7,none,ultrasound_abdomen
+V11401,P1174,Cardiology,palpitations,new,Dr_Peri,0,none,none
+V11402,P1397,Gastroenterology,post_surgery_followup,new,Dr_Bhasin,0,none,ct_abdomen
+V11403,P1296,Cardiology,chest_pain,follow_up,Dr_Patla,30,ct,ecg_only
+V11404,P1355,Cardiology,chest_pain,new,Dr_Magar,0,none,chest_xray
+V11405,P1312,General Medicine,general_checkup,new,Dr_Vig,0,none,xray_chest
+V11406,P1026,Pulmonology,chronic_cough,new,Dr_Bawa,0,none,ct_chest
+V11407,P1119,Gastroenterology,post_surgery_followup,follow_up,Dr_Magar,30,ultrasound,ct_abdomen
+V11408,P1317,Gastroenterology,abdominal_pain,new,Dr_Vig,0,none,ct_abdomen
+V11409,P1232,Gastroenterology,jaundice,follow_up,Dr_Bhasin,0,none,ct_abdomen
+V11410,P1034,Gastroenterology,abdominal_pain,follow_up,Dr_Bera,90,mri,ultrasound_abdomen
+V11411,P1215,Neurology,post_stroke_followup,follow_up,Dr_Bera,7,xray,mri_brain
+V11412,P1030,Orthopedics,joint_pain,follow_up,Dr_Memon,90,ct,xray_limb
+V11413,P1277,Orthopedics,fracture_suspected,new,Dr_Bawa,0,none,xray_limb
+V11414,P1188,Cardiology,post_angioplasty_followup,follow_up,Dr_Vig,7,none,chest_xray
+V11415,P1286,Cardiology,palpitations,new,Dr_Peri,0,none,ct_angio
+V11416,P1103,Cardiology,palpitations,new,Dr_Magar,0,none,ct_angio
+V11417,P1239,Gastroenterology,post_surgery_followup,new,Dr_Bawa,0,none,ct_abdomen
+V11418,P1171,Gastroenterology,jaundice,new,Dr_Bera,0,none,ultrasound_abdomen
+V11419,P1021,Neurology,severe_headache,follow_up,Dr_Vig,7,xray,mri_brain
+V11420,P1109,Orthopedics,joint_pain,follow_up,Dr_Varma,180,ultrasound,xray_limb
+V11421,P1094,Cardiology,palpitations,new,Dr_Varma,0,none,chest_xray
+V11422,P1058,Orthopedics,joint_pain,new,Dr_Vig,0,none,xray_limb
+V11423,P1391,Pulmonology,breathing_difficulty,follow_up,Dr_Peri,7,ct,chest_xray
+V11424,P1134,General Medicine,fever_evaluation,new,Dr_Memon,0,none,none
+V11425,P1100,Cardiology,chest_pain,follow_up,Dr_Bhasin,0,xray,chest_xray
+V11426,P1056,Pulmonology,breathing_difficulty,new,Dr_Peri,0,none,chest_xray
+V11427,P1190,General Medicine,fever_evaluation,follow_up,Dr_Bawa,30,none,xray_chest
+V11428,P1066,Orthopedics,fracture_suspected,new,Dr_Palan,0,none,xray_limb
+V11429,P1306,Neurology,post_stroke_followup,new,Dr_Patla,0,none,mri_brain
+V11430,P1300,Orthopedics,post_surgery_followup,new,Dr_Bera,0,none,xray_limb
+V11431,P1027,General Medicine,general_checkup,follow_up,Dr_Memon,60,ultrasound,none
+V11432,P1041,Neurology,post_stroke_followup,follow_up,Dr_Bera,60,ultrasound,mri_brain
+V11433,P1330,Gastroenterology,jaundice,new,Dr_Magar,0,none,ultrasound_abdomen
+V11434,P1364,Pulmonology,tb_followup,follow_up,Dr_Palan,30,ultrasound,chest_xray
+V11435,P1205,General Medicine,diabetes_followup,follow_up,Dr_Peri,7,xray,none
+V11436,P1120,Neurology,severe_headache,new,Dr_Bali,0,none,mri_brain
+V11437,P1191,Pulmonology,tb_followup,new,Dr_Bhasin,0,none,chest_xray
+V11438,P1265,Pulmonology,breathing_difficulty,follow_up,Dr_Magar,60,mri,chest_xray
+V11439,P1230,Neurology,seizure_evaluation,new,Dr_Magar,0,none,ct_head
+V11440,P1195,Cardiology,chest_pain,new,Dr_Prabhu,0,none,ct_angio
+V11441,P1183,Cardiology,palpitations,follow_up,Dr_Memon,60,none,ecg_only
+V11442,P1116,Cardiology,chest_pain,new,Dr_Patla,0,none,ct_angio
+V11443,P1170,Orthopedics,post_surgery_followup,new,Dr_Prabhu,0,none,ct_bone
+V11444,P1393,General Medicine,general_checkup,new,Dr_Bawa,0,none,ultrasound_abdomen
+V11445,P1385,General Medicine,diabetes_followup,new,Dr_Prabhu,0,none,xray_chest
+V11446,P1153,Pulmonology,chronic_cough,follow_up,Dr_Bali,30,mri,ct_chest
+V11447,P1006,Neurology,post_stroke_followup,new,Dr_Bera,0,none,none
+V11448,P1116,Orthopedics,post_surgery_followup,follow_up,Dr_Magar,7,mri,xray_limb
+V11449,P1282,Neurology,post_stroke_followup,follow_up,Dr_Varma,180,none,ct_head
+V11450,P1096,Neurology,post_stroke_followup,new,Dr_Magar,0,none,mri_brain
+V11451,P1285,Cardiology,palpitations,new,Dr_Bera,0,none,chest_xray
+V11452,P1377,Cardiology,palpitations,follow_up,Dr_Varma,14,xray,ct_angio
+V11453,P1351,Neurology,post_stroke_followup,new,Dr_Varma,0,none,mri_brain
+V11454,P1290,Cardiology,chest_pain,new,Dr_Varma,0,none,ct_angio
+V11455,P1308,Gastroenterology,post_surgery_followup,follow_up,Dr_Bali,7,ultrasound,ultrasound_abdomen
+V11456,P1197,Orthopedics,joint_pain,new,Dr_Bawa,0,none,none
+V11457,P1327,Pulmonology,breathing_difficulty,new,Dr_Vig,0,none,ct_chest
+V11458,P1016,General Medicine,diabetes_followup,new,Dr_Bera,0,none,xray_chest
+V11459,P1197,Pulmonology,breathing_difficulty,new,Dr_Vig,0,none,ct_chest
+V11460,P1232,Cardiology,palpitations,new,Dr_Bera,0,none,chest_xray
+V11461,P1210,Neurology,severe_headache,follow_up,Dr_Bera,60,ultrasound,mri_brain
+V11462,P1035,Neurology,severe_headache,new,Dr_Peri,0,none,ct_head
+V11463,P1363,General Medicine,general_checkup,new,Dr_Bawa,0,none,ultrasound_abdomen
+V11464,P1300,Orthopedics,post_surgery_followup,follow_up,Dr_Magar,14,xray,xray_limb
+V11465,P1073,Neurology,severe_headache,follow_up,Dr_Bawa,180,xray,mri_brain
+V11466,P1291,Neurology,seizure_evaluation,new,Dr_Patla,0,none,mri_brain
+V11467,P1147,General Medicine,general_checkup,new,Dr_Palan,0,none,none
+V11468,P1200,Gastroenterology,abdominal_pain,new,Dr_Bera,0,none,none
+V11469,P1375,Neurology,seizure_evaluation,new,Dr_Vig,0,none,ct_head
+V11470,P1291,Cardiology,palpitations,follow_up,Dr_Patla,7,xray,chest_xray
+V11471,P1321,Gastroenterology,jaundice,follow_up,Dr_Bhasin,90,xray,none
+V11472,P1210,Gastroenterology,abdominal_pain,follow_up,Dr_Bhasin,180,none,ct_abdomen
+V11473,P1399,Pulmonology,chronic_cough,new,Dr_Prabhu,0,none,chest_xray
+V11474,P1022,Neurology,severe_headache,new,Dr_Palan,0,none,mri_brain
+V11475,P1236,Neurology,seizure_evaluation,follow_up,Dr_Peri,30,none,ct_head
+V11476,P1058,General Medicine,fever_evaluation,new,Dr_Palan,0,none,none
+V11477,P1236,Cardiology,chest_pain,new,Dr_Peri,0,none,ecg_only
+V11478,P1224,Orthopedics,joint_pain,follow_up,Dr_Bera,7,none,ct_bone
+V11479,P1090,Pulmonology,breathing_difficulty,new,Dr_Bali,0,none,chest_xray
+V11480,P1343,Cardiology,post_angioplasty_followup,new,Dr_Magar,0,none,chest_xray
+V11481,P1110,General Medicine,fever_evaluation,follow_up,Dr_Memon,7,ultrasound,none
+V11482,P1325,Gastroenterology,post_surgery_followup,follow_up,Dr_Vig,0,ultrasound,ct_abdomen
+V11483,P1227,Cardiology,post_angioplasty_followup,new,Dr_Bali,0,none,ecg_only
+V11484,P1127,Pulmonology,breathing_difficulty,new,Dr_Patla,0,none,chest_xray
+V11485,P1007,Pulmonology,breathing_difficulty,follow_up,Dr_Bhasin,7,none,ct_chest
+V11486,P1340,Orthopedics,post_surgery_followup,new,Dr_Bali,0,none,xray_limb
+V11487,P1167,Pulmonology,tb_followup,follow_up,Dr_Bawa,7,mri,chest_xray
+V11488,P1219,Cardiology,chest_pain,new,Dr_Varma,0,none,chest_xray
+V11489,P1007,Neurology,post_stroke_followup,new,Dr_Bali,0,none,ct_head
+V11490,P1112,Cardiology,post_angioplasty_followup,follow_up,Dr_Vig,60,ct,chest_xray
+V11491,P1111,Neurology,seizure_evaluation,follow_up,Dr_Magar,0,mri,mri_brain
+V11492,P1291,Orthopedics,joint_pain,follow_up,Dr_Bawa,14,ultrasound,ct_bone
+V11493,P1394,General Medicine,fever_evaluation,new,Dr_Vig,0,none,none
+V11494,P1352,Pulmonology,tb_followup,new,Dr_Varma,0,none,chest_xray
+V11495,P1299,Neurology,seizure_evaluation,new,Dr_Palan,0,none,ct_head
+V11496,P1300,General Medicine,fever_evaluation,new,Dr_Bawa,0,none,none
+V11497,P1063,Pulmonology,breathing_difficulty,follow_up,Dr_Peri,60,none,chest_xray
+V11498,P1191,Neurology,seizure_evaluation,new,Dr_Bali,0,none,ct_head
+V11499,P1019,Orthopedics,post_surgery_followup,follow_up,Dr_Magar,90,ct,xray_limb
