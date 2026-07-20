@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+pydantic
+numpy
+scikit-learn
+faiss-cpu
