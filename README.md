@@ -10,13 +10,6 @@ Frontend (Vercel)
 
 https://scanahead-ai-bharat.vercel.app
 
-Backend (Render)
-
-https://scanahead-ai-bharat.onrender.com
-
-Swagger (Local)
-
-http://127.0.0.1:8010/docs
 
 ---
 
