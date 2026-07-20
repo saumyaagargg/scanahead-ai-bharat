@@ -10,8 +10,7 @@ import {
 } from "react-icons/fi";
 import "./App.css";
 
-const API_BASE = "http://localhost:8000"; // update to your deployed backend URL
-
+const API_BASE = "https://scanahead-ai-bharat.onrender.com";
 function App() {
   const [departments, setDepartments] = useState([]);
   const [diagnosisByDept, setDiagnosisByDept] = useState({});
